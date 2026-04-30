@@ -529,101 +529,9 @@ tr:hover td{background:rgba(108,99,255,0.04);}
   .pq-qc-options{grid-template-columns:1fr;}
   .bank-stat-row{gap:20px;}
 }
-
-/* ============================================================
-   AUTH GATE — sits above everything until student authenticates
-   ============================================================ */
-#auth-gate{
-  position:fixed;inset:0;background:var(--bg);z-index:9999;
-  display:flex;align-items:center;justify-content:center;
-  padding:20px;
-}
-#auth-gate::before{
-  content:'';position:fixed;inset:0;
-  background-image:linear-gradient(rgba(108,99,255,0.04) 1px,transparent 1px),
-    linear-gradient(90deg,rgba(108,99,255,0.04) 1px,transparent 1px);
-  background-size:40px 40px;pointer-events:none;
-}
-.auth-card{
-  background:var(--surface);border:1px solid var(--border);
-  border-radius:20px;padding:40px;width:100%;max-width:440px;
-  position:relative;overflow:visible;
-  box-shadow:0 24px 80px rgba(0,0,0,0.6);
-}
-.auth-card::before{
-  content:'';position:absolute;top:0;left:0;right:0;height:3px;
-  background:linear-gradient(90deg,var(--accent),#9c8fff,var(--accent2));
-  border-radius:20px 20px 0 0;
-}
-.auth-logo{font-family:var(--font-display);font-size:26px;margin-bottom:4px;}
-.auth-logo span{color:var(--accent);}
-.auth-subtitle{font-size:12px;color:var(--text3);font-family:var(--font-mono);margin-bottom:32px;}
-.auth-label{font-size:11px;font-weight:600;color:var(--text2);text-transform:uppercase;
-  letter-spacing:1px;font-family:var(--font-mono);display:block;margin-bottom:8px;}
-.auth-input{
-  width:100%;background:var(--surface2);border:1px solid var(--border);
-  border-radius:10px;color:var(--text);font-family:var(--font-body);
-  font-size:15px;padding:14px 16px;outline:none;
-  transition:border-color 0.2s,box-shadow 0.2s;margin-bottom:16px;
-}
-.auth-input:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(108,99,255,0.15);}
-.auth-btn{
-  width:100%;padding:14px;border:none;border-radius:10px;
-  background:var(--accent);color:white;font-family:var(--font-body);
-  font-size:15px;font-weight:600;cursor:pointer;
-  transition:all 0.2s;box-shadow:0 4px 20px rgba(108,99,255,0.35);
-}
-.auth-btn:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 8px 28px rgba(108,99,255,0.5);}
-.auth-btn:disabled{opacity:0.5;cursor:not-allowed;transform:none;}
-.auth-error{
-  background:rgba(255,101,132,0.1);border:1px solid rgba(255,101,132,0.3);
-  color:var(--danger);border-radius:8px;padding:10px 14px;
-  font-size:13px;margin-bottom:16px;display:none;
-}
-.auth-error.show{display:block;}
-.auth-status{
-  font-size:12px;color:var(--text3);font-family:var(--font-mono);
-  text-align:center;margin-top:16px;min-height:18px;
-}
-.auth-footer{
-  margin-top:28px;padding-top:20px;border-top:1px solid var(--border);
-  font-size:12px;color:var(--text3);text-align:center;
-}
-.auth-footer a{color:var(--accent);text-decoration:none;}
 </style>
 </head>
 <body>
-
-<!-- ============================================================
-     AUTH GATE — hidden after successful authentication
-     ============================================================ -->
-<div id="auth-gate">
-  <div class="auth-card">
-    <div class="auth-logo">GRE <span>Quant</span> Pro</div>
-    <div class="auth-subtitle">by Coach Aditya Goenka &nbsp;·&nbsp; Licensed Access</div>
-
-    <div class="auth-error" id="auth-error"></div>
-
-    <label class="auth-label" for="auth-email">Your Registered Email</label>
-    <input class="auth-input" type="email" id="auth-email"
-      placeholder="Enter the email you used to purchase"
-      onkeydown="if(event.key==='Enter')handleAuthSubmit()">
-
-    <button class="auth-btn" id="auth-btn" onclick="handleAuthSubmit()">
-      🔓 Unlock Pro Access
-    </button>
-
-    <div class="auth-status" id="auth-status"></div>
-
-    <div class="auth-footer">
-      Not a Pro student yet? <a href="pricing.html">See pricing →</a><br>
-      <span style="margin-top:6px;display:inline-block;">
-        Device issue? <a href="mailto:goenka.aditya.kol@gmail.com">Email Coach Aditya</a>
-      </span>
-    </div>
-  </div>
-</div>
-
 <div class="app-wrapper">
 
   <div class="app-header">
@@ -639,12 +547,12 @@ tr:hover td{background:rgba(108,99,255,0.04);}
 
   <div class="tabs">
     <button class="tab-btn active" id="tab-btn-bank" onclick="switchTab('bank',this)">🎯 Practice from Bank</button>
-    <button class="tab-btn" id="tab-btn-session" onclick="switchTab('session',this)">✏️ Manual Practice</button>
+    <button class="tab-btn" id="tab-btn-session" onclick="switchTab('session',this)">📋 Manual Logger</button>
     <button class="tab-btn" id="tab-btn-progress" onclick="switchTab('progress',this)">📊 My Progress</button>
   </div>
 
   <!-- ========== SESSION TAB ========== -->
-  <div class="tab-panel active" id="tab-session">
+  <div class="tab-panel" id="tab-session">
 
     <div class="setup-card" id="setup-card">
       <h2>Session Setup</h2>
@@ -753,7 +661,7 @@ tr:hover td{background:rgba(108,99,255,0.04);}
   </div><!-- /tab-session -->
 
   <!-- ========== PRACTICE FROM BANK TAB ========== -->
-  <div class="tab-panel" id="tab-bank">
+  <div class="tab-panel active" id="tab-bank">
 
     <!-- Setup Screen -->
     <div id="bank-setup-screen">
@@ -950,215 +858,6 @@ tr:hover td{background:rgba(108,99,255,0.04);}
    APP CONFIG — change this line only to switch free ↔ pro
    ============================================================ */
 const APP_MODE = 'pro'; // 'free' | 'pro'
-
-/* ============================================================
-   AUTH CONFIG — update WORKER_URL after deploying Cloudflare Worker
-   ============================================================ */
-const AUTH_CONFIG = {
-  WORKER_URL: 'https://gre-auth.goenka-aditya-kol.workers.dev',
-  STORAGE_KEY: 'gre_pro_auth',   // localStorage key
-  SESSION_HOURS: 24,             // re-validate after 24 hours of inactivity
-};
-
-/* ============================================================
-   AUTH — FINGERPRINT GENERATION
-   Builds a stable browser fingerprint from non-sensitive signals.
-   Hashed with SHA-256 so raw values never leave the device.
-   ============================================================ */
-async function generateFingerprint() {
-  const signals = [
-    navigator.userAgent,
-    navigator.language,
-    screen.width + 'x' + screen.height,
-    screen.colorDepth,
-    Intl.DateTimeFormat().resolvedOptions().timeZone,
-    navigator.hardwareConcurrency || '',
-    navigator.platform || '',
-  ];
-
-  // Canvas fingerprint — how the GPU renders text differs per device
-  try {
-    const canvas = document.createElement('canvas');
-    const ctx = canvas.getContext('2d');
-    ctx.textBaseline = 'top';
-    ctx.font = '14px Arial';
-    ctx.fillText('GRE-fp-2026', 2, 2);
-    signals.push(canvas.toDataURL());
-  } catch(e) { /* canvas blocked — skip */ }
-
-  const raw = signals.join('||');
-  const encoded = new TextEncoder().encode(raw);
-  const hashBuffer = await crypto.subtle.digest('SHA-256', encoded);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-}
-
-/* ============================================================
-   AUTH — INIT
-   Called on page load. Checks localStorage first to avoid
-   hammering the Worker on every visit. Re-validates with Worker
-   after SESSION_HOURS of inactivity.
-   ============================================================ */
-async function initAuth() {
-  const stored = getStoredAuth();
-  const fp = await generateFingerprint();
-
-  // Fast path: valid cached session + fingerprint matches
-  if (stored && stored.fingerprint === fp && !isSessionExpired(stored)) {
-    unlockApp();
-    return;
-  }
-
-  // Slow path: show gate (either first time or session expired)
-  // Pre-fill email if we have it stored
-  if (stored && stored.email) {
-    document.getElementById('auth-email').value = stored.email;
-    setAuthStatus('Verifying your access…');
-    // Auto-submit if we have email + fingerprint (returning user, just expired)
-    if (stored.fingerprint === fp) {
-      await submitAuthToWorker(stored.email, fp);
-      return;
-    }
-  }
-
-  showAuthGate();
-}
-
-/* ============================================================
-   AUTH — HANDLE SUBMIT (user clicks Unlock or presses Enter)
-   ============================================================ */
-async function handleAuthSubmit() {
-  const email = document.getElementById('auth-email').value.trim().toLowerCase();
-  if (!email || !email.includes('@')) {
-    showAuthError('Please enter a valid email address.');
-    return;
-  }
-
-  const btn = document.getElementById('auth-btn');
-  btn.disabled = true;
-  btn.textContent = '⏳ Verifying…';
-  clearAuthError();
-  setAuthStatus('Checking with server…');
-
-  const fp = await generateFingerprint();
-  await submitAuthToWorker(email, fp);
-}
-
-/* ============================================================
-   AUTH — WORKER CALL
-   ============================================================ */
-async function submitAuthToWorker(email, fp) {
-  const btn = document.getElementById('auth-btn');
-
-  try {
-    // Step 1: validate
-    const res = await fetch(`${AUTH_CONFIG.WORKER_URL}/validate`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email, fingerprint: fp }),
-    });
-
-    if (!res.ok) throw new Error('Server error ' + res.status);
-    const data = await res.json();
-
-    if (data.status === 'ok') {
-      // Step 2: register fingerprint if needed (new device or new student)
-      if (data.needsRegister) {
-        setAuthStatus('Registering your device…');
-        await fetch(`${AUTH_CONFIG.WORKER_URL}/register`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email, fingerprint: fp }),
-        });
-      }
-      // Save to localStorage and unlock
-      saveAuth(email, fp);
-      unlockApp();
-
-    } else if (data.status === 'unknown_email') {
-      showAuthError('This email is not registered for Pro access. Please check your email or contact Coach Aditya.');
-      resetAuthBtn();
-
-    } else if (data.status === 'device_limit') {
-      showAuthError('This account is active on another device. To reset your device access, email Coach Aditya at goenka.aditya.kol@gmail.com');
-      resetAuthBtn();
-
-    } else {
-      showAuthError('Unexpected error. Please try again or contact Coach Aditya.');
-      resetAuthBtn();
-    }
-
-  } catch (err) {
-    // Network failure — if they have a valid cached session, let them in offline
-    const stored = getStoredAuth();
-    if (stored && stored.email === email && stored.fingerprint === fp) {
-      setAuthStatus('Offline mode — using cached access.');
-      setTimeout(unlockApp, 1200);
-    } else {
-      showAuthError('Could not reach the server. Please check your internet connection and try again.');
-      resetAuthBtn();
-    }
-  }
-}
-
-/* ============================================================
-   AUTH — UI HELPERS
-   ============================================================ */
-function showAuthGate() {
-  document.getElementById('auth-gate').style.display = 'flex';
-  document.getElementById('auth-email').focus();
-}
-
-function unlockApp() {
-  document.getElementById('auth-gate').style.display = 'none';
-  // Now safe to load the bank index — app is unlocked
-  loadBankIndex();
-}
-
-function showAuthError(msg) {
-  const el = document.getElementById('auth-error');
-  el.textContent = msg;
-  el.classList.add('show');
-}
-
-function clearAuthError() {
-  document.getElementById('auth-error').classList.remove('show');
-}
-
-function setAuthStatus(msg) {
-  document.getElementById('auth-status').textContent = msg;
-}
-
-function resetAuthBtn() {
-  const btn = document.getElementById('auth-btn');
-  btn.disabled = false;
-  btn.textContent = '🔓 Unlock Pro Access';
-  setAuthStatus('');
-}
-
-/* ============================================================
-   AUTH — LOCALSTORAGE HELPERS
-   ============================================================ */
-function saveAuth(email, fingerprint) {
-  localStorage.setItem(AUTH_CONFIG.STORAGE_KEY, JSON.stringify({
-    email,
-    fingerprint,
-    savedAt: Date.now(),
-  }));
-}
-
-function getStoredAuth() {
-  try {
-    const raw = localStorage.getItem(AUTH_CONFIG.STORAGE_KEY);
-    return raw ? JSON.parse(raw) : null;
-  } catch(e) { return null; }
-}
-
-function isSessionExpired(stored) {
-  if (!stored || !stored.savedAt) return true;
-  const hours = (Date.now() - stored.savedAt) / (1000 * 60 * 60);
-  return hours > AUTH_CONFIG.SESSION_HOURS;
-}
 
 const FREE_CONFIG = {
   allowedSubtopics: {
@@ -2330,8 +2029,10 @@ function resetBankSession(){
 
 
 document.getElementById('session-date').value=new Date().toISOString().slice(0,10);
-// Auth gate — unlockApp() calls loadBankIndex() after successful auth
-initAuth();
+// Load bank manifest on startup
+loadBankIndex();
+// Default to Practice from Bank tab
+switchTab('bank', document.getElementById('tab-btn-bank'));
 
 // ============================================================
 // FREE / PRO GATING
