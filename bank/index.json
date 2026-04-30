@@ -1,21 +1,1084 @@
 {
   "version": "1.0",
   "bank": "Adi's GRE Quant Bank",
-  "last_updated": "2026-04-26",
-  "total_questions": 160,
+  "last_updated": "2026-04-30",
+  "total_questions": 4510,
   "topics": {
     "Arithmetic": {
       "Percentages": {
         "file": "arithmetic/percentages.json",
         "count": 80,
-        "distribution": {"easy": 20, "medium": 30, "hard": 20, "extreme_hard": 10},
-        "status": "complete"
+        "distribution": {
+          "easy": 20,
+          "medium": 30,
+          "hard": 20,
+          "extreme_hard": 10
+        },
+        "status": "complete",
+        "id": "ARI-PCT"
       },
       "Fractions & Decimals": {
         "file": "arithmetic/fractions_decimals.json",
         "count": 80,
-        "distribution": {"easy": 20, "medium": 30, "hard": 20, "extreme_hard": 10},
-        "status": "complete"
+        "distribution": {
+          "easy": 20,
+          "medium": 30,
+          "hard": 20,
+          "extreme_hard": 10
+        },
+        "status": "complete",
+        "id": "ARI-FRC"
+      },
+      "Ratios & Proportions": {
+        "file": "arithmetic/ratios_proportions.json",
+        "count": 80,
+        "distribution": {
+          "easy": 20,
+          "medium": 30,
+          "hard": 20,
+          "extreme_hard": 10
+        },
+        "status": "complete",
+        "id": "ARI-RAT"
+      },
+      "Exponents & Roots": {
+        "file": "arithmetic/exponents_roots.json",
+        "count": 80,
+        "distribution": {
+          "easy": 20,
+          "medium": 30,
+          "hard": 20,
+          "extreme_hard": 10
+        },
+        "status": "complete",
+        "id": "ARI-EXP"
+      },
+      "Rates & Unit Conversions": {
+        "file": "arithmetic/rates_unit_conversions.json",
+        "count": 70,
+        "distribution": {
+          "easy": 18,
+          "medium": 27,
+          "hard": 18,
+          "extreme_hard": 7
+        },
+        "status": "complete",
+        "id": "ARI-RAE"
+      },
+      "Sequences & Patterns": {
+        "file": "arithmetic/sequences_patterns.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "in_progress",
+        "id": "ARI-SEQ"
+      },
+      "Remainders": {
+        "file": "arithmetic/remainders.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "ARI-REM"
+      },
+      "Absolute Value": {
+        "file": "arithmetic/absolute_value.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ARI-ABS"
+      },
+      "Powers of 10": {
+        "file": "arithmetic/powers_of_10.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "ARI-P10"
+      },
+      "Number Line & Ordering": {
+        "file": "arithmetic/number_line_ordering.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "ARI-NLO"
+      },
+      "Estimation & Approximation": {
+        "file": "arithmetic/estimation.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "ARI-EST"
+      }
+    },
+    "Algebra": {
+      "Linear Equations (1 Variable)": {
+        "file": "algebra/linear_1var.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "ALG-LIN"
+      },
+      "Linear Equations (2 Variables)": {
+        "file": "algebra/linear_2var.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "ALG-LN2"
+      },
+      "Inequalities": {
+        "file": "algebra/inequalities.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "ALG-INQ"
+      },
+      "Quadratic Equations": {
+        "file": "algebra/quadratics.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "ALG-QDR"
+      },
+      "Functions": {
+        "file": "algebra/functions.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "ALG-FNC"
+      },
+      "Algebraic Expressions & Simplification": {
+        "file": "algebra/expressions.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ALG-EXP"
+      },
+      "Simultaneous Equations": {
+        "file": "algebra/simultaneous.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ALG-SIM"
+      },
+      "Factoring": {
+        "file": "algebra/factoring.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ALG-FAC"
+      },
+      "Sequences & Series (Algebraic)": {
+        "file": "algebra/sequences_series.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ALG-SEQ"
+      },
+      "Word Problem Modelling": {
+        "file": "algebra/word_problems.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ALG-WPM"
+      },
+      "Exponents & Roots (Algebraic)": {
+        "file": "algebra/exponents_algebraic.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "ALG-EXR"
+      }
+    },
+    "Word Problems": {
+      "Distance-Speed-Time": {
+        "file": "word_problems/distance_speed_time.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "WRD-DST"
+      },
+      "Mixture Problems": {
+        "file": "word_problems/mixture.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "WRD-MIX"
+      },
+      "Work & Rate Problems": {
+        "file": "word_problems/work_rate.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "WRD-WRK"
+      },
+      "Interest (Simple & Compound)": {
+        "file": "word_problems/interest.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "WRD-INT"
+      },
+      "Profit & Loss": {
+        "file": "word_problems/profit_loss.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "WRD-PNL"
+      },
+      "Percentage Word Problems": {
+        "file": "word_problems/percentage.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "WRD-PCT"
+      },
+      "Ratio Word Problems": {
+        "file": "word_problems/ratio.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "WRD-RAT"
+      },
+      "Multi-step Problems": {
+        "file": "word_problems/multi_step.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "WRD-MST"
+      },
+      "Age Problems": {
+        "file": "word_problems/age.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "WRD-AGE"
+      }
+    },
+    "Geometry": {
+      "Circles (Area, Arc & Sector)": {
+        "file": "geometry/circles.json",
+        "count": 70,
+        "distribution": {
+          "easy": 18,
+          "medium": 27,
+          "hard": 18,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-CIR"
+      },
+      "Triangles (General)": {
+        "file": "geometry/triangles.json",
+        "count": 70,
+        "distribution": {
+          "easy": 18,
+          "medium": 27,
+          "hard": 18,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-TRI"
+      },
+      "Lines & Angles": {
+        "file": "geometry/lines_angles.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-LNA"
+      },
+      "Pythagorean Theorem": {
+        "file": "geometry/pythagorean.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-PYT"
+      },
+      "Special Triangles (30-60-90, 45-45-90)": {
+        "file": "geometry/special_triangles.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-SPT"
+      },
+      "Quadrilaterals": {
+        "file": "geometry/quadrilaterals.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-QDL"
+      },
+      "Perimeter & Area": {
+        "file": "geometry/perimeter_area.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "GEO-PNA"
+      },
+      "Parallel Lines & Transversals": {
+        "file": "geometry/parallel_lines.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "GEO-PLT"
+      },
+      "Inscribed & Circumscribed Shapes": {
+        "file": "geometry/inscribed.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "GEO-INS"
+      },
+      "Similar & Congruent Figures": {
+        "file": "geometry/similar_congruent.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "GEO-SCF"
+      },
+      "Surface Area & Volume": {
+        "file": "geometry/surface_volume.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "GEO-SAV"
+      },
+      "3D Geometry (Cubes & Cylinders)": {
+        "file": "geometry/3d.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "GEO-3DG"
+      },
+      "Parallelograms & Trapezoids": {
+        "file": "geometry/parallelograms.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "GEO-PTZ"
+      },
+      "Isosceles & Equilateral Triangles": {
+        "file": "geometry/isosceles.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "GEO-IET"
+      },
+      "Chords, Tangents & Secants": {
+        "file": "geometry/chords.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "GEO-CTS"
+      },
+      "Other Polygons": {
+        "file": "geometry/polygons.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "GEO-POL"
+      },
+      "Cones, Spheres & Hemispheres": {
+        "file": "geometry/cones_spheres.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "GEO-CSH"
+      }
+    },
+    "Coordinate Geometry": {
+      "Slope & Intercepts": {
+        "file": "coordinate/slope.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "COG-SLO"
+      },
+      "Equation of a Line": {
+        "file": "coordinate/line_equation.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "COG-EQL"
+      },
+      "Distance Between Points": {
+        "file": "coordinate/distance.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "COG-DST"
+      },
+      "Midpoint": {
+        "file": "coordinate/midpoint.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "COG-MID"
+      },
+      "Parallel & Perpendicular Lines": {
+        "file": "coordinate/parallel_perp.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "COG-PPL"
+      },
+      "Graphs of Linear Equations": {
+        "file": "coordinate/linear_graphs.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "COG-GLE"
+      },
+      "Graphs of Quadratic Functions": {
+        "file": "coordinate/quadratic_graphs.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "COG-GQF"
+      },
+      "Plotting Points": {
+        "file": "coordinate/plotting.json",
+        "count": 30,
+        "distribution": {
+          "easy": 8,
+          "medium": 12,
+          "hard": 7,
+          "extreme_hard": 3
+        },
+        "status": "not_started",
+        "id": "COG-PLT"
+      },
+      "Coordinate Geometry Word Problems": {
+        "file": "coordinate/word_problems.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "COG-WPR"
+      }
+    },
+    "Statistics & Probability": {
+      "Mean, Median & Mode": {
+        "file": "statistics/mean_median_mode.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "STA-MMM"
+      },
+      "Basic Probability": {
+        "file": "statistics/probability_basic.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "STA-PRB"
+      },
+      "Combinations": {
+        "file": "statistics/combinations.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "STA-CMB"
+      },
+      "Permutations": {
+        "file": "statistics/permutations.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "STA-PRM"
+      },
+      "Overlapping Sets (Venn Diagrams)": {
+        "file": "statistics/venn.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "STA-OVL"
+      },
+      "Range & Standard Deviation": {
+        "file": "statistics/std_dev.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "STA-RSD"
+      },
+      "Weighted Average": {
+        "file": "statistics/weighted_avg.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "STA-WAV"
+      },
+      "Compound Probability": {
+        "file": "statistics/probability_compound.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "STA-CPR"
+      },
+      "Independent & Dependent Events": {
+        "file": "statistics/events.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "STA-IDE"
+      },
+      "Data Distribution": {
+        "file": "statistics/distribution.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "STA-DDI"
+      },
+      "Interquartile Range & Percentiles": {
+        "file": "statistics/iqr.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "STA-IQR"
+      }
+    },
+    "Data Interpretation": {
+      "Reading & Comparing Data": {
+        "file": "data/reading.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "DAT-RCD"
+      },
+      "Bar Graphs": {
+        "file": "data/bar_graphs.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "DAT-BAR"
+      },
+      "Line Graphs": {
+        "file": "data/line_graphs.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "DAT-LIN"
+      },
+      "Pie Charts": {
+        "file": "data/pie_charts.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "DAT-PIE"
+      },
+      "Tables & Data Sets": {
+        "file": "data/tables.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "DAT-TBL"
+      },
+      "Percentage Change from Graphs": {
+        "file": "data/pct_change.json",
+        "count": 30,
+        "distribution": {
+          "easy": 8,
+          "medium": 12,
+          "hard": 7,
+          "extreme_hard": 3
+        },
+        "status": "not_started",
+        "id": "DAT-PCG"
+      },
+      "Mixed Graph Sets": {
+        "file": "data/mixed_graphs.json",
+        "count": 30,
+        "distribution": {
+          "easy": 8,
+          "medium": 12,
+          "hard": 7,
+          "extreme_hard": 3
+        },
+        "status": "not_started",
+        "id": "DAT-MXG"
+      },
+      "Multi-graph DI Sets": {
+        "file": "data/multi_graph.json",
+        "count": 30,
+        "distribution": {
+          "easy": 8,
+          "medium": 12,
+          "hard": 7,
+          "extreme_hard": 3
+        },
+        "status": "not_started",
+        "id": "DAT-MGS"
+      }
+    },
+    "Number Properties": {
+      "Factors & Multiples": {
+        "file": "number_properties/factors_multiples.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "NUM-FAM"
+      },
+      "GCD & LCM": {
+        "file": "number_properties/gcd_lcm.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "NUM-GCL"
+      },
+      "Prime Numbers & Factorization": {
+        "file": "number_properties/primes.json",
+        "count": 60,
+        "distribution": {
+          "easy": 15,
+          "medium": 23,
+          "hard": 15,
+          "extreme_hard": 7
+        },
+        "status": "not_started",
+        "id": "NUM-PRF",
+        "notes": "Moved from Arithmetic"
+      },
+      "Divisibility Rules": {
+        "file": "number_properties/divisibility.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "NUM-DIV"
+      },
+      "Consecutive Integers": {
+        "file": "number_properties/consecutive.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "NUM-CON"
+      },
+      "Even/Odd Properties": {
+        "file": "number_properties/even_odd.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "NUM-EOP",
+        "notes": "Moved from Arithmetic"
+      },
+      "Integers & Divisibility": {
+        "file": "number_properties/integers.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "NUM-INT",
+        "notes": "Moved from Arithmetic"
+      },
+      "Digit Problems & Place Value": {
+        "file": "number_properties/digits.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "NUM-DPV"
+      },
+      "Number Theory": {
+        "file": "number_properties/number_theory.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "NUM-NTH"
+      },
+      "Remainders": {
+        "file": "number_properties/remainders.json",
+        "count": 50,
+        "distribution": {
+          "easy": 13,
+          "medium": 20,
+          "hard": 12,
+          "extreme_hard": 5
+        },
+        "status": "not_started",
+        "id": "NUM-REM"
+      },
+      "Absolute Value": {
+        "file": "number_properties/absolute_value.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
+        },
+        "status": "not_started",
+        "id": "NUM-ABS"
+      }
+    },
+    "Mixed Practice": {
+      "General Mixed (All Topics)": {
+        "file": "mixed/general.json",
+        "count": 100,
+        "distribution": {
+          "easy": 25,
+          "medium": 38,
+          "hard": 25,
+          "extreme_hard": 12
+        },
+        "status": "not_started",
+        "id": "MIX-GEN"
       }
     }
   }
