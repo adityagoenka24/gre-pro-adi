@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "bank": "Adi's GRE Quant Bank",
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-05-03",
   "total_questions": 4510,
   "topics": {
     "Arithmetic": {
@@ -86,7 +86,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ARI-REM"
       },
       "Absolute Value": {
@@ -98,7 +98,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ARI-ABS"
       },
       "Powers of 10": {
@@ -110,7 +110,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ARI-P10"
       },
       "Number Line & Ordering": {
@@ -122,7 +122,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ARI-NLO"
       },
       "Estimation & Approximation": {
@@ -134,7 +134,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ARI-EST"
       }
     },
