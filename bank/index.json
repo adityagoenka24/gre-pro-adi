@@ -283,211 +283,126 @@
   }
 },
     "Geometry": {
-      "Circles (Area, Arc & Sector)": {
-        "file": "geometry/circles.json",
-        "count": 70,
-        "distribution": {
-          "easy": 18,
-          "medium": 27,
-          "hard": 18,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-CIR"
-      },
-      "Triangles (General)": {
-        "file": "geometry/triangles.json",
-        "count": 70,
-        "distribution": {
-          "easy": 18,
-          "medium": 27,
-          "hard": 18,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-TRI"
-      },
-      "Lines & Angles": {
-        "file": "geometry/lines_angles.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-LNA"
-      },
-      "Pythagorean Theorem": {
-        "file": "geometry/pythagorean.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-PYT"
-      },
-      "Special Triangles (30-60-90, 45-45-90)": {
-        "file": "geometry/special_triangles.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-SPT"
-      },
-      "Quadrilaterals": {
-        "file": "geometry/quadrilaterals.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-QDL"
-      },
-      "Perimeter & Area": {
-        "file": "geometry/perimeter_area.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "GEO-PNA"
-      },
-      "Parallel Lines & Transversals": {
-        "file": "geometry/parallel_lines.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "GEO-PLT"
-      },
-      "Inscribed & Circumscribed Shapes": {
-        "file": "geometry/inscribed.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "GEO-INS"
-      },
-      "Similar & Congruent Figures": {
-        "file": "geometry/similar_congruent.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "GEO-SCF"
-      },
-      "Surface Area & Volume": {
-        "file": "geometry/surface_volume.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "GEO-SAV"
-      },
-      "3D Geometry (Cubes & Cylinders)": {
-        "file": "geometry/3d.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "GEO-3DG"
-      },
-      "Parallelograms & Trapezoids": {
-        "file": "geometry/parallelograms.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "GEO-PTZ"
-      },
-      "Isosceles & Equilateral Triangles": {
-        "file": "geometry/isosceles.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "GEO-IET"
-      },
-      "Chords, Tangents & Secants": {
-        "file": "geometry/chords.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "GEO-CTS"
-      },
-      "Other Polygons": {
-        "file": "geometry/polygons.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "GEO-POL"
-      },
-      "Cones, Spheres & Hemispheres": {
-        "file": "geometry/cones_spheres.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "GEO-CSH"
-      }
-    },
+  "Circles (Area, Arc & Sector)": {
+    "file": "geometry/circles.json",
+    "count": 70,
+    "distribution": { "easy": 18, "medium": 27, "hard": 18, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-CIR"
+  },
+  "Triangles (General)": {
+    "file": "geometry/triangles_general.json",
+    "count": 70,
+    "distribution": { "easy": 18, "medium": 27, "hard": 18, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-TRI"
+  },
+  "Lines & Angles": {
+    "file": "geometry/lines_angles.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-LNA"
+  },
+  "Pythagorean Theorem": {
+    "file": "geometry/pythagorean_theorem.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-PYT"
+  },
+  "Special Triangles (30-60-90, 45-45-90)": {
+    "file": "geometry/special_triangles.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-SPT"
+  },
+  "Quadrilaterals": {
+    "file": "geometry/quadrilaterals.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-QDL"
+  },
+  "Perimeter & Area": {
+    "file": "geometry/perimeter_area.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "GEO-PNA"
+  },
+  "Parallel Lines & Transversals": {
+    "file": "geometry/parallel_lines_transversals.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "GEO-PLT"
+  },
+  "Inscribed & Circumscribed Shapes": {
+    "file": "geometry/inscribed_circumscribed.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "GEO-INS"
+  },
+  "Similar & Congruent Figures": {
+    "file": "geometry/similar_congruent.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "GEO-SCF"
+  },
+  "Surface Area & Volume": {
+    "file": "geometry/surface_area_volume.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "GEO-SAV"
+  },
+  "3D Geometry (Cubes & Cylinders)": {
+    "file": "geometry/3d_geometry.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "GEO-3DG"
+  },
+  "Parallelograms & Trapezoids": {
+    "file": "geometry/parallelograms_trapezoids.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "GEO-PTZ"
+  },
+  "Isosceles & Equilateral Triangles": {
+    "file": "geometry/isosceles_equilateral.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "GEO-IET"
+  },
+  "Chords, Tangents & Secants": {
+    "file": "geometry/chords_tangents_secants.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "GEO-CTS"
+  },
+  "Other Polygons": {
+    "file": "geometry/other_polygons.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "GEO-POL"
+  },
+  "Cones, Spheres & Hemispheres": {
+    "file": "geometry/cones_spheres_hemispheres.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "GEO-CSH"
+  }
+},
     "Coordinate Geometry": {
       "Slope & Intercepts": {
         "file": "coordinate/slope.json",
