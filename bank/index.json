@@ -392,7 +392,7 @@
           "hard": 18,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-CIR"
       },
       "Triangles (General)": {
@@ -404,7 +404,7 @@
           "hard": 18,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-TRI"
       },
       "Lines & Angles": {
@@ -416,7 +416,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-LNA"
       },
       "Pythagorean Theorem": {
@@ -428,7 +428,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-PYT"
       },
       "Special Triangles (30-60-90, 45-45-90)": {
@@ -440,7 +440,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-SPT"
       },
       "Quadrilaterals": {
@@ -452,7 +452,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-QDL"
       },
       "Perimeter & Area": {
@@ -464,7 +464,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-PNA"
       },
       "Parallel Lines & Transversals": {
@@ -476,7 +476,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-PLT"
       },
       "Inscribed & Circumscribed Shapes": {
@@ -488,7 +488,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-INS"
       },
       "Similar & Congruent Figures": {
@@ -500,7 +500,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-SCF"
       },
       "Surface Area & Volume": {
@@ -512,7 +512,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-SAV"
       },
       "3D Geometry (Cubes & Cylinders)": {
@@ -524,7 +524,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-3DG"
       },
       "Parallelograms & Trapezoids": {
@@ -536,7 +536,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-PTZ"
       },
       "Isosceles & Equilateral Triangles": {
@@ -548,7 +548,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-IET"
       },
       "Chords, Tangents & Secants": {
@@ -560,7 +560,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-CTS"
       },
       "Other Polygons": {
@@ -572,7 +572,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-POL"
       },
       "Cones, Spheres & Hemispheres": {
@@ -584,7 +584,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "GEO-CSH"
       }
     },
@@ -598,7 +598,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-SLO"
       },
       "Equation of a Line": {
@@ -610,7 +610,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-EQL"
       },
       "Distance Between Points": {
@@ -622,7 +622,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-DST"
       },
       "Midpoint": {
@@ -634,7 +634,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-MID"
       },
       "Parallel & Perpendicular Lines": {
@@ -646,7 +646,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-PPL"
       },
       "Graphs of Linear Equations": {
@@ -658,7 +658,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-GLE"
       },
       "Graphs of Quadratic Functions": {
@@ -670,7 +670,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-GQF"
       },
       "Plotting Points": {
@@ -682,7 +682,7 @@
           "hard": 7,
           "extreme_hard": 3
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-PLT"
       },
       "Coordinate Geometry Word Problems": {
@@ -694,7 +694,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "COG-WPR"
       }
     },
@@ -708,7 +708,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-MMM"
       },
       "Basic Probability": {
@@ -720,7 +720,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-PRB"
       },
       "Combinations": {
@@ -732,7 +732,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-CMB"
       },
       "Permutations": {
@@ -744,7 +744,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-PRM"
       },
       "Overlapping Sets (Venn Diagrams)": {
@@ -756,7 +756,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-OVL"
       },
       "Range & Standard Deviation": {
@@ -768,7 +768,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-RSD"
       },
       "Weighted Average": {
@@ -780,7 +780,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-WAV"
       },
       "Compound Probability": {
@@ -792,7 +792,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-CPR"
       },
       "Independent & Dependent Events": {
@@ -804,7 +804,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-IDE"
       },
       "Data Distribution": {
@@ -816,7 +816,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-DDI"
       },
       "Interquartile Range & Percentiles": {
@@ -828,7 +828,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "STA-IQR"
       }
     },
@@ -842,7 +842,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-RCD"
       },
       "Bar Graphs": {
@@ -854,7 +854,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-BAR"
       },
       "Line Graphs": {
@@ -866,7 +866,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-LIN"
       },
       "Pie Charts": {
@@ -878,7 +878,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-PIE"
       },
       "Tables & Data Sets": {
@@ -890,7 +890,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-TBL"
       },
       "Percentage Change from Graphs": {
@@ -902,7 +902,7 @@
           "hard": 7,
           "extreme_hard": 3
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-PCG"
       },
       "Mixed Graph Sets": {
@@ -914,7 +914,7 @@
           "hard": 7,
           "extreme_hard": 3
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-MXG"
       },
       "Multi-graph DI Sets": {
@@ -926,7 +926,7 @@
           "hard": 7,
           "extreme_hard": 3
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "DAT-MGS"
       }
     },
@@ -940,7 +940,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-FAM"
       },
       "GCD & LCM": {
@@ -952,7 +952,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-GCL"
       },
       "Prime Numbers & Factorization": {
@@ -964,7 +964,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-PRF",
         "notes": "Moved from Arithmetic"
       },
@@ -977,7 +977,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-DIV"
       },
       "Consecutive Integers": {
@@ -989,7 +989,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-CON"
       },
       "Even/Odd Properties": {
@@ -1001,7 +1001,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-EOP",
         "notes": "Moved from Arithmetic"
       },
@@ -1014,7 +1014,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-INT",
         "notes": "Moved from Arithmetic"
       },
@@ -1027,7 +1027,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-DPV"
       },
       "Number Theory": {
@@ -1039,7 +1039,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-NTH"
       },
       "Remainders": {
@@ -1051,7 +1051,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-REM"
       },
       "Absolute Value": {
@@ -1063,7 +1063,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "NUM-ABS"
       }
     },
@@ -1077,7 +1077,7 @@
           "hard": 25,
           "extreme_hard": 12
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "MIX-GEN"
       }
     }
