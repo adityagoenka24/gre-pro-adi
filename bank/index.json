@@ -139,139 +139,84 @@
       }
     },
     "Algebra": {
-      "Linear Equations (1 Variable)": {
-        "file": "algebra/linear_1var.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "ALG-LIN"
-      },
-      "Linear Equations (2 Variables)": {
-        "file": "algebra/linear_2var.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "ALG-LN2"
-      },
-      "Inequalities": {
-        "file": "algebra/inequalities.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "ALG-INQ"
-      },
-      "Quadratic Equations": {
-        "file": "algebra/quadratics.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "ALG-QDR"
-      },
-      "Functions": {
-        "file": "algebra/functions.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "ALG-FNC"
-      },
-      "Algebraic Expressions & Simplification": {
-        "file": "algebra/expressions.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "ALG-EXP"
-      },
-      "Simultaneous Equations": {
-        "file": "algebra/simultaneous.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "ALG-SIM"
-      },
-      "Factoring": {
-        "file": "algebra/factoring.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "ALG-FAC"
-      },
-      "Sequences & Series (Algebraic)": {
-        "file": "algebra/sequences_series.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "ALG-SEQ"
-      },
-      "Word Problem Modelling": {
-        "file": "algebra/word_problems.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "ALG-WPM"
-      },
-      "Exponents & Roots (Algebraic)": {
-        "file": "algebra/exponents_algebraic.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "ALG-EXR"
-      }
-    },
+  "Linear Equations (1 Variable)": {
+    "file": "algebra/linear_equations_1var.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "ALG-LIN"
+  },
+  "Linear Equations (2 Variables)": {
+    "file": "algebra/linear_equations_2var.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "ALG-LN2"
+  },
+  "Inequalities": {
+    "file": "algebra/inequalities.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "ALG-INQ"
+  },
+  "Quadratic Equations": {
+    "file": "algebra/quadratic_equations.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "ALG-QDR"
+  },
+  "Functions": {
+    "file": "algebra/functions.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "ALG-FNC"
+  },
+  "Algebraic Expressions & Simplification": {
+    "file": "algebra/algebraic_expressions.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "ALG-EXP"
+  },
+  "Simultaneous Equations": {
+    "file": "algebra/simultaneous_equations.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "ALG-SIM"
+  },
+  "Factoring": {
+    "file": "algebra/factoring.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "ALG-FAC"
+  },
+  "Sequences & Series (Algebraic)": {
+    "file": "algebra/sequences_series.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "ALG-SEQ"
+  },
+  "Word Problem Modelling": {
+    "file": "algebra/word_problem_modelling.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "ALG-WPM"
+  },
+  "Exponents & Roots (Algebraic)": {
+    "file": "algebra/exponents_roots_algebraic.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "ALG-EXR"
+  }
+},
     "Word Problems": {
       "Distance-Speed-Time": {
         "file": "word_problems/distance_speed_time.json",
