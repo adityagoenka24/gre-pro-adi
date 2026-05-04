@@ -218,115 +218,70 @@
   }
 },
     "Word Problems": {
-      "Distance-Speed-Time": {
-        "file": "word_problems/distance_speed_time.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "WRD-DST"
-      },
-      "Mixture Problems": {
-        "file": "word_problems/mixture.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "WRD-MIX"
-      },
-      "Work & Rate Problems": {
-        "file": "word_problems/work_rate.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "WRD-WRK"
-      },
-      "Interest (Simple & Compound)": {
-        "file": "word_problems/interest.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "WRD-INT"
-      },
-      "Profit & Loss": {
-        "file": "word_problems/profit_loss.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "WRD-PNL"
-      },
-      "Percentage Word Problems": {
-        "file": "word_problems/percentage.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "WRD-PCT"
-      },
-      "Ratio Word Problems": {
-        "file": "word_problems/ratio.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "WRD-RAT"
-      },
-      "Multi-step Problems": {
-        "file": "word_problems/multi_step.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "WRD-MST"
-      },
-      "Age Problems": {
-        "file": "word_problems/age.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "WRD-AGE"
-      }
-    },
+  "Distance-Speed-Time": {
+    "file": "word_problems/distance_speed_time.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "WRD-DST"
+  },
+  "Mixture Problems": {
+    "file": "word_problems/mixture_problems.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "WRD-MIX"
+  },
+  "Work & Rate Problems": {
+    "file": "word_problems/work_rate_problems.json",
+    "count": 60,
+    "distribution": { "easy": 15, "medium": 23, "hard": 15, "extreme_hard": 7 },
+    "status": "complete",
+    "id": "WRD-WRK"
+  },
+  "Interest (Simple & Compound)": {
+    "file": "word_problems/interest.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "WRD-INT"
+  },
+  "Profit & Loss": {
+    "file": "word_problems/profit_loss.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "WRD-PNL"
+  },
+  "Percentage Word Problems": {
+    "file": "word_problems/percentage_word_problems.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "WRD-PCT"
+  },
+  "Ratio Word Problems": {
+    "file": "word_problems/ratio_word_problems.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "WRD-RAT"
+  },
+  "Multi-step Problems": {
+    "file": "word_problems/multi_step_problems.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "WRD-MST"
+  },
+  "Age Problems": {
+    "file": "word_problems/age_problems.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "WRD-AGE"
+  }
+},
     "Geometry": {
       "Circles (Area, Arc & Sector)": {
         "file": "geometry/circles.json",
