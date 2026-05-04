@@ -605,6 +605,21 @@ tr:hover td{background:rgba(108,99,255,0.04);}
 .error-modal-submit{background:var(--danger);color:white;border:none;padding:9px 22px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:700;font-family:var(--font-body);}
 .error-report-btn{background:none;border:1px solid rgba(255,101,132,0.3);color:var(--danger);font-size:11px;font-family:var(--font-mono);padding:4px 10px;border-radius:6px;cursor:pointer;transition:all 0.2s;opacity:0.7;}
 .error-report-btn:hover{opacity:1;border-color:var(--danger);background:rgba(255,101,132,0.07);}
+
+/* ── Exam Sidebar Layout ────────────────────────────────────────── */
+.exam-layout{display:grid;grid-template-columns:200px 1fr;gap:20px;align-items:start;}
+.exam-sidebar{position:sticky;top:80px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;}
+.exam-sidebar-title{font-family:var(--font-mono);font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:var(--text3);margin-bottom:12px;}
+.exam-sidebar .exam-dots-wrap{display:flex;flex-wrap:wrap;gap:6px;}
+.exam-sidebar .exam-dot{width:28px;height:28px;font-size:11px;}
+.exam-sidebar-unanswered{font-family:var(--font-mono);font-size:11px;margin-top:10px;padding-top:10px;border-top:1px solid var(--border);min-height:18px;}
+.exam-question-col{min-width:0;}
+@media(max-width:700px){
+  .exam-layout{grid-template-columns:1fr;gap:12px;}
+  .exam-sidebar{position:static;padding:10px 14px;}
+  .exam-sidebar .exam-dots-wrap{gap:4px;}
+  .exam-sidebar .exam-dot{width:22px;height:22px;font-size:10px;}
+}
 </style>
 </head>
 <body>
@@ -856,24 +871,23 @@ tr:hover td{background:rgba(108,99,255,0.04);}
           <div class="exam-countdown" id="exam-countdown" style="display:none;">00:00</div>
         </div>
       </div>
-      <!-- Exam nav dots (exam mode only) -->
-      <div id="exam-nav-bar" style="display:none;">
-        <div class="exam-nav">
-          <div class="exam-nav-label">Question Navigator — click any dot to jump</div>
-          <div id="exam-dots"></div>
-        </div>
-      </div>
-      <div id="bank-question-area"></div>
-      <!-- Exam submit area (exam mode only) -->
-      <div id="exam-submit-area" style="display:none;">
-        <div class="exam-submit-area">
-          <div id="exam-unanswered-warning" class="unanswered-warning" style="display:none;"></div>
-          <p>Finished? Submit to see your full analysis.</p>
-          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
-            <button class="btn btn-danger" onclick="examSubmit()">📝 Submit Exam</button>
+      <!-- Exam sidebar layout (exam mode only) -->
+      <div id="exam-layout-wrapper" style="display:none;">
+        <div class="exam-layout">
+          <div class="exam-sidebar" id="exam-nav-bar">
+            <div class="exam-sidebar-title">Navigator</div>
+            <div class="exam-dots-wrap" id="exam-dots"></div>
+            <div class="exam-sidebar-unanswered" id="exam-unanswered-warning"></div>
+            <div style="margin-top:12px;padding-top:12px;border-top:1px solid var(--border);">
+              <button class="btn btn-danger" style="width:100%;padding:10px;" onclick="examSubmit()">📝 Submit</button>
+            </div>
           </div>
+          <div class="exam-question-col" id="exam-question-col"></div>
         </div>
       </div>
+      <!-- Practice mode question area — always visible -->
+      <div id="bank-question-area"></div>
+      <div id="exam-submit-area" style="display:none;"></div>
     </div>
 
     <!-- Exam Analysis Screen -->
@@ -2639,7 +2653,11 @@ startBankSession = async function() {
   document.getElementById('bank-score-pill').style.display = 'none';
   document.getElementById('bank-session-timer').style.display = 'none';
   document.getElementById('exam-countdown').style.display = 'block';
-  document.getElementById('exam-nav-bar').style.display = 'block';
+  document.getElementById('exam-layout-wrapper').style.display = 'block';
+  // Move question area into exam column
+  const qa = document.getElementById('bank-question-area');
+  const examCol = document.getElementById('exam-question-col');
+  if (qa && examCol) examCol.appendChild(qa);
   document.getElementById('exam-submit-area').style.display = 'block';
 
   // Build nav dots
@@ -2878,14 +2896,10 @@ function examGoPrev() {
 
 function examUpdateUnansweredWarning() {
   const unanswered = bankState.examAnswers.filter(a => !a || a.answer === null).length;
-  const w = document.getElementById('exam-unanswered-warning');
-  if (!w) return;
-  if (unanswered > 0) {
-    w.style.display = 'block';
-    w.textContent = unanswered + ' question' + (unanswered > 1 ? 's' : '') + ' not yet answered';
-  } else {
-    w.style.display = 'none';
-  }
+  const el = document.getElementById('exam-unanswered-warning');
+  if (!el) return;
+  el.textContent = unanswered > 0 ? unanswered + ' unanswered' : '✓ All answered';
+  el.style.color = unanswered > 0 ? 'var(--warning)' : 'var(--success)';
 }
 
 // ============================================================
@@ -3078,7 +3092,14 @@ function barRow(label, correct, total, pct, color) {
 const _origResetBankSession = resetBankSession;
 resetBankSession = function() {
   document.getElementById('exam-analysis-screen').style.display = 'none';
-  document.getElementById('exam-nav-bar').style.display = 'none';
+  document.getElementById('exam-layout-wrapper').style.display = 'none';
+  // Restore question area to home position
+  const qa2 = document.getElementById('bank-question-area');
+  const activeScreen2 = document.getElementById('bank-active-screen');
+  const examWrapper2 = document.getElementById('exam-layout-wrapper');
+  if (qa2 && activeScreen2 && qa2.parentElement !== activeScreen2) {
+    activeScreen2.insertBefore(qa2, examWrapper2);
+  }
   document.getElementById('exam-submit-area').style.display = 'none';
   document.getElementById('exam-countdown').style.display = 'none';
   document.getElementById('bank-score-pill').style.display = 'flex';
