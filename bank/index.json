@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "bank": "Adi's GRE Quant Bank",
-  "last_updated": "2026-05-03",
+  "last_updated": "2026-05-04",
   "total_questions": 4510,
   "topics": {
     "Arithmetic": {
@@ -148,7 +148,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-LIN"
       },
       "Linear Equations (2 Variables)": {
@@ -160,7 +160,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-LN2"
       },
       "Inequalities": {
@@ -172,7 +172,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-INQ"
       },
       "Quadratic Equations": {
@@ -184,7 +184,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-QDR"
       },
       "Functions": {
@@ -196,7 +196,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-FNC"
       },
       "Algebraic Expressions & Simplification": {
@@ -208,7 +208,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-EXP"
       },
       "Simultaneous Equations": {
@@ -220,7 +220,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-SIM"
       },
       "Factoring": {
@@ -232,7 +232,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-FAC"
       },
       "Sequences & Series (Algebraic)": {
@@ -244,7 +244,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-SEQ"
       },
       "Word Problem Modelling": {
@@ -256,7 +256,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-WPM"
       },
       "Exponents & Roots (Algebraic)": {
@@ -268,7 +268,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "ALG-EXR"
       }
     },
@@ -282,7 +282,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-DST"
       },
       "Mixture Problems": {
@@ -294,7 +294,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-MIX"
       },
       "Work & Rate Problems": {
@@ -306,7 +306,7 @@
           "hard": 15,
           "extreme_hard": 7
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-WRK"
       },
       "Interest (Simple & Compound)": {
@@ -318,7 +318,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-INT"
       },
       "Profit & Loss": {
@@ -330,7 +330,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-PNL"
       },
       "Percentage Word Problems": {
@@ -342,7 +342,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-PCT"
       },
       "Ratio Word Problems": {
@@ -354,7 +354,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-RAT"
       },
       "Multi-step Problems": {
@@ -366,7 +366,7 @@
           "hard": 12,
           "extreme_hard": 5
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-MST"
       },
       "Age Problems": {
@@ -378,7 +378,7 @@
           "hard": 10,
           "extreme_hard": 4
         },
-        "status": "not_started",
+        "status": "complete",
         "id": "WRD-AGE"
       }
     },
