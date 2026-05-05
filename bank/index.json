@@ -404,115 +404,70 @@
   }
 },
     "Coordinate Geometry": {
-      "Slope & Intercepts": {
-        "file": "coordinate/slope.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "COG-SLO"
-      },
-      "Equation of a Line": {
-        "file": "coordinate/line_equation.json",
-        "count": 50,
-        "distribution": {
-          "easy": 13,
-          "medium": 20,
-          "hard": 12,
-          "extreme_hard": 5
-        },
-        "status": "complete",
-        "id": "COG-EQL"
-      },
-      "Distance Between Points": {
-        "file": "coordinate/distance.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "COG-DST"
-      },
-      "Midpoint": {
-        "file": "coordinate/midpoint.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "COG-MID"
-      },
-      "Parallel & Perpendicular Lines": {
-        "file": "coordinate/parallel_perp.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "COG-PPL"
-      },
-      "Graphs of Linear Equations": {
-        "file": "coordinate/linear_graphs.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "COG-GLE"
-      },
-      "Graphs of Quadratic Functions": {
-        "file": "coordinate/quadratic_graphs.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "COG-GQF"
-      },
-      "Plotting Points": {
-        "file": "coordinate/plotting.json",
-        "count": 30,
-        "distribution": {
-          "easy": 8,
-          "medium": 12,
-          "hard": 7,
-          "extreme_hard": 3
-        },
-        "status": "complete",
-        "id": "COG-PLT"
-      },
-      "Coordinate Geometry Word Problems": {
-        "file": "coordinate/word_problems.json",
-        "count": 40,
-        "distribution": {
-          "easy": 10,
-          "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
-        },
-        "status": "complete",
-        "id": "COG-WPR"
-      }
-    },
+  "Slope & Intercepts": {
+    "file": "coordinate/slope_intercepts.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "COG-SLO"
+  },
+  "Equation of a Line": {
+    "file": "coordinate/equation_of_line.json",
+    "count": 50,
+    "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
+    "status": "complete",
+    "id": "COG-EQL"
+  },
+  "Distance Between Points": {
+    "file": "coordinate/distance_between_points.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "COG-DST"
+  },
+  "Midpoint": {
+    "file": "coordinate/midpoint.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "COG-MID"
+  },
+  "Parallel & Perpendicular Lines": {
+    "file": "coordinate/parallel_perpendicular_lines.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "COG-PPL"
+  },
+  "Graphs of Linear Equations": {
+    "file": "coordinate/graphs_linear_equations.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "COG-GLE"
+  },
+  "Graphs of Quadratic Functions": {
+    "file": "coordinate/graphs_quadratic_functions.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "COG-GQF"
+  },
+  "Plotting Points": {
+    "file": "coordinate/plotting_points.json",
+    "count": 30,
+    "distribution": { "easy": 8, "medium": 12, "hard": 7, "extreme_hard": 3 },
+    "status": "complete",
+    "id": "COG-PLT"
+  },
+  "Coordinate Geometry Word Problems": {
+    "file": "coordinate/coordinate_word_problems.json",
+    "count": 40,
+    "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
+    "status": "complete",
+    "id": "COG-WPR"
+  }
+},
     "Statistics & Probability": {
       "Mean, Median & Mode": {
         "file": "statistics/mean_median_mode.json",
