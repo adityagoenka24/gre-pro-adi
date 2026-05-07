@@ -2,7 +2,7 @@
   "version": "1.0",
   "bank": "Adi's GRE Quant Bank",
   "last_updated": "2026-05-04",
-  "total_questions": 4510,
+  "total_questions": 4490,
   "topics": {
     "Arithmetic": {
       "Percentages": {
@@ -30,7 +30,7 @@
         "id": "ARI-FRC"
       },
       "Ratios & Proportions": {
-        "file": "arithmetic/ratios_proportions.json",
+        "file": "arithmetic/ratios proportions.json",
         "count": 80,
         "distribution": {
           "easy": 20,
@@ -42,7 +42,7 @@
         "id": "ARI-RAT"
       },
       "Exponents & Roots": {
-        "file": "arithmetic/exponents_roots.json",
+        "file": "arithmetic/exponents roots.json",
         "count": 80,
         "distribution": {
           "easy": 20,
@@ -54,7 +54,7 @@
         "id": "ARI-EXP"
       },
       "Rates & Unit Conversions": {
-        "file": "arithmetic/rates_unit_conversions.json",
+        "file": "arithmetic/rates unit conversions.json",
         "count": 70,
         "distribution": {
           "easy": 18,
@@ -79,24 +79,24 @@
       },
       "Remainders": {
         "file": "arithmetic/remainders.json",
-        "count": 60,
-        "distribution": {
-          "easy": 15,
-          "medium": 23,
-          "hard": 15,
-          "extreme_hard": 7
-        },
-        "status": "complete",
-        "id": "ARI-REM"
-      },
-      "Absolute Value": {
-        "file": "arithmetic/absolute_value.json",
         "count": 50,
         "distribution": {
           "easy": 13,
           "medium": 20,
           "hard": 12,
           "extreme_hard": 5
+        },
+        "status": "complete",
+        "id": "ARI-REM"
+      },
+      "Absolute Value": {
+        "file": "arithmetic/absolute_value.json",
+        "count": 40,
+        "distribution": {
+          "easy": 10,
+          "medium": 16,
+          "hard": 10,
+          "extreme_hard": 4
         },
         "status": "complete",
         "id": "ARI-ABS"
@@ -126,13 +126,13 @@
         "id": "ARI-NLO"
       },
       "Estimation & Approximation": {
-        "file": "arithmetic/estimation.json",
+        "file": "arithmetic/estimation_approximation.json",
         "count": 40,
         "distribution": {
           "easy": 10,
           "medium": 16,
-          "hard": 10,
-          "extreme_hard": 4
+          "hard": 11,
+          "extreme_hard": 3
         },
         "status": "complete",
         "id": "ARI-EST"
@@ -286,7 +286,7 @@
   "Circles (Area, Arc & Sector)": {
     "file": "geometry/circles.json",
     "count": 70,
-    "distribution": { "easy": 18, "medium": 27, "hard": 18, "extreme_hard": 7 },
+    "distribution": { "easy": 18, "medium": 27, "hard": 19, "extreme_hard": 6 },
     "status": "complete",
     "id": "GEO-CIR"
   },
@@ -405,63 +405,63 @@
 },
     "Coordinate Geometry": {
   "Slope & Intercepts": {
-    "file": "coordinate/slope_intercepts.json",
+        "file": "coordinate_geometry/slope_intercepts.json",
     "count": 50,
     "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
     "status": "complete",
     "id": "COG-SLO"
   },
   "Equation of a Line": {
-    "file": "coordinate/equation_of_line.json",
+        "file": "coordinate_geometry/equation_of_line.json",
     "count": 50,
     "distribution": { "easy": 13, "medium": 20, "hard": 12, "extreme_hard": 5 },
     "status": "complete",
     "id": "COG-EQL"
   },
   "Distance Between Points": {
-    "file": "coordinate/distance_between_points.json",
+        "file": "coordinate_geometry/distance_between_points.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "COG-DST"
   },
   "Midpoint": {
-    "file": "coordinate/midpoint.json",
+        "file": "coordinate_geometry/midpoint.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "COG-MID"
   },
   "Parallel & Perpendicular Lines": {
-    "file": "coordinate/parallel_perpendicular_lines.json",
+        "file": "coordinate_geometry/parallel_perpendicular_lines.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "COG-PPL"
   },
   "Graphs of Linear Equations": {
-    "file": "coordinate/graphs_linear_equations.json",
+        "file": "coordinate_geometry/graphs_linear_equations.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "COG-GLE"
   },
   "Graphs of Quadratic Functions": {
-    "file": "coordinate/graphs_quadratic_functions.json",
+        "file": "coordinate_geometry/graphs_quadratic_functions.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "COG-GQF"
   },
   "Plotting Points": {
-    "file": "coordinate/plotting_points.json",
+        "file": "coordinate_geometry/plotting_points.json",
     "count": 30,
     "distribution": { "easy": 8, "medium": 12, "hard": 7, "extreme_hard": 3 },
     "status": "complete",
     "id": "COG-PLT"
   },
   "Coordinate Geometry Word Problems": {
-    "file": "coordinate/coordinate_word_problems.json",
+        "file": "coordinate_geometry/coordinate_word_problems.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
@@ -549,56 +549,56 @@
 },
     "Data Interpretation": {
   "Reading & Comparing Data": {
-    "file": "data/reading_comparing_data.json",
+        "file": "data_interpretation/reading_comparing_data.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "DAT-RCD"
   },
   "Bar Graphs": {
-    "file": "data/bar_graphs.json",
+        "file": "data_interpretation/bar_graphs.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "DAT-BAR"
   },
   "Line Graphs": {
-    "file": "data/line_graphs.json",
+        "file": "data_interpretation/line_graphs.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "DAT-LIN"
   },
   "Pie Charts": {
-    "file": "data/pie_charts.json",
+        "file": "data_interpretation/pie_charts.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "DAT-PIE"
   },
   "Tables & Data Sets": {
-    "file": "data/tables_data_sets.json",
+        "file": "data_interpretation/tables_data_sets.json",
     "count": 40,
     "distribution": { "easy": 10, "medium": 16, "hard": 10, "extreme_hard": 4 },
     "status": "complete",
     "id": "DAT-TBL"
   },
   "Percentage Change from Graphs": {
-    "file": "data/percentage_change_from_graphs.json",
+        "file": "data_interpretation/percentage_change_from_graphs.json",
     "count": 30,
     "distribution": { "easy": 8, "medium": 12, "hard": 7, "extreme_hard": 3 },
     "status": "complete",
     "id": "DAT-PCG"
   },
   "Mixed Graph Sets": {
-    "file": "data/mixed_graph_sets.json",
+        "file": "data_interpretation/mixed_graph_sets.json",
     "count": 30,
     "distribution": { "easy": 8, "medium": 12, "hard": 7, "extreme_hard": 3 },
     "status": "complete",
     "id": "DAT-MXG"
   },
   "Multi-graph DI Sets": {
-    "file": "data/multi_graph_di_sets.json",
+        "file": "data_interpretation/multi_graph_di_sets.json",
     "count": 30,
     "distribution": { "easy": 8, "medium": 12, "hard": 7, "extreme_hard": 3 },
     "status": "complete",
