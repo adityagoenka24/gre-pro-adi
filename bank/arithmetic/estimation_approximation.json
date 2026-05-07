@@ -441,7 +441,7 @@
       "difficulty": "hard",
       "type": "mcq",
       "question": "When approximating 17/51, a student rounds both numerator and denominator to get 20/50 = 0.4. The actual value of 17/51 is approximately 0.333. What is the percent error in the student's approximation, to the nearest percent?",
-      "options": ["A. 15%", "B. 17%", "C": "20%", "D. 22%", "E. 25%"],
+      "options": ["A. 15%", "B. 17%", "C. 20%", "D. 22%", "E. 25%"],
       "answer": "C",
       "explanation": "Exact value: 17/51 = 1/3 ≈ 0.3333. Student's estimate: 0.4. Percent error = |estimate - true| / |true| × 100 = |0.4 - 0.3333| / 0.3333 × 100 = 0.0667 / 0.3333 × 100 ≈ 20%. Answer: C.",
       "trap": "Students compute |0.4 - 0.333| / 0.4 × 100 = 0.067/0.4 × 100 = 16.7% ≈ 17%, using the estimate as the denominator instead of the true value. Percent error always uses the true value as the base.",
