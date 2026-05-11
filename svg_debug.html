@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<title>SVG Render Debug</title>
+<style>
+  body{background:#0a0a0f;padding:30px;font-family:sans-serif;color:#ccc;max-width:600px;margin:0 auto;}
+  h2{color:#6c63ff;margin-bottom:4px;}
+  .status{font-size:13px;color:#888;margin-bottom:24px;font-family:monospace;}
+  .card{background:#1a1a2e;border:1px solid #2a2a4a;border-radius:10px;padding:20px;margin-bottom:20px;}
+  .label{font-size:11px;font-family:monospace;color:#6c63ff;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;}
+  .pq-figure{display:flex;justify-content:center;padding:16px;background:#111;border-radius:8px;border:1px solid #333;margin-bottom:16px;}
+  .pq-figure svg{max-width:100%;height:auto;display:block;}
+  .q-text{font-size:15px;line-height:1.7;color:#ddd;}
+  .ok{color:#43e97b;} .err{color:#ff6584;}
+  button{background:#6c63ff;color:white;border:none;padding:10px 20px;border-radius:6px;cursor:pointer;font-size:14px;margin-top:8px;}
+</style>
+</head>
+<body>
+<h2>SVG Render Debug</h2>
+<p class="status">Opens bank/geometry/pythagorean_theorem.json and renders Q1 — exactly as the app does.</p>
+
+<div class="card">
+  <div class="label">Step 1 — JSON Fetch</div>
+  <div id="fetch-status">Fetching...</div>
+</div>
+
+<div class="card">
+  <div class="label">Step 2 — svg field present?</div>
+  <div id="svg-status">Waiting...</div>
+</div>
+
+<div class="card">
+  <div class="label">Step 3 — Rendered output (innerHTML injection)</div>
+  <div id="render-area">Waiting...</div>
+</div>
+
+<div class="card">
+  <div class="label">Step 4 — Static embed (no JS injection)</div>
+  <div id="static-area">Loading...</div>
+</div>
+
+<script>
+async function run() {
+  // Step 1: Fetch
+  let data;
+  try {
+    const res = await fetch('bank/geometry/pythagorean_theorem.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    data = await res.json();
+    document.getElementById('fetch-status').innerHTML =
+      '<span class="ok">✓ Fetched OK — ' + data.questions.length + ' questions loaded</span>';
+  } catch(e) {
+    document.getElementById('fetch-status').innerHTML =
+      '<span class="err">✗ Fetch failed: ' + e.message + '</span>';
+    return;
+  }
+
+  // Step 2: svg field
+  const q = data.questions[0];
+  const hasSvg = !!q.svg;
+  document.getElementById('svg-status').innerHTML = hasSvg
+    ? '<span class="ok">✓ svg field present — ' + q.svg.length + ' chars</span><br><small style="color:#888;font-family:monospace;">' + q.svg.slice(0,80) + '...</small>'
+    : '<span class="err">✗ svg field MISSING — fields present: ' + Object.keys(q).join(', ') + '</span>';
+
+  // Step 3: innerHTML injection (same as the app)
+  const visualHTML = q.svg ? '<div class="pq-figure">' + q.svg + '</div>' : '<em style="color:#888">No SVG</em>';
+  document.getElementById('render-area').innerHTML =
+    visualHTML + '<p class="q-text">' + q.question + '</p>';
+
+  // Step 4: static embed — write SVG directly into a pre-existing div
+  if (q.svg) {
+    document.getElementById('static-area').innerHTML =
+      '<div class="pq-figure">' + q.svg + '</div><p style="font-size:12px;color:#888;">Same SVG, set via direct innerHTML</p>';
+  }
+}
+run();
+</script>
+</body></html>
