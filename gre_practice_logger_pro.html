@@ -391,6 +391,10 @@ tr:hover td{background:rgba(108,99,255,0.04);}
 /* Question body */
 .pq-body{padding:28px;}
 .pq-question-text{font-size:16px;line-height:1.7;color:var(--text);margin-bottom:24px;white-space:pre-wrap;}
+.pq-figure{display:flex;justify-content:center;margin-bottom:20px;padding:16px;background:var(--surface2);border-radius:var(--radius-sm);border:1px solid var(--border);}
+.pq-figure svg{max-width:100%;height:auto;display:block;}
+.pq-figure-desc{background:var(--surface2);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-sm);padding:12px 16px;margin-bottom:20px;font-size:13px;color:var(--text2);line-height:1.6;}
+.pq-figure-label{display:block;font-family:var(--font-mono);font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--accent);margin-bottom:6px;font-weight:700;}
 .pq-qc-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--border);border-radius:var(--radius-sm);overflow:hidden;margin-bottom:24px;}
 .pq-qc-col{padding:20px;}
 .pq-qc-col:first-child{border-right:1px solid var(--border);}
@@ -2102,13 +2106,19 @@ function bankRenderQuestion(){
   bankState.qStartTime=Date.now();
   window.bankSelectedOptions=[];
 
+  const visualHTML=q.svg
+    ?`<div class="pq-figure">${q.svg}</div>`
+    :q.figure_description
+    ?`<div class="pq-figure-desc"><span class="pq-figure-label">Figure</span>${escHtml(q.figure_description)}</div>`
+    :'';
+
   let bodyHTML='';
   if(q.type==='quantitative_comparison'){
     const lines=q.question.split('\n');
     const intro=lines[0];
     const colA=(lines.find(l=>l.startsWith('Column A:'))||'Column A: —').replace('Column A:','').trim();
     const colB=(lines.find(l=>l.startsWith('Column B:'))||'Column B: —').replace('Column B:','').trim();
-    bodyHTML=`<p class="pq-question-text">${escHtml(intro)}</p>
+    bodyHTML=`${visualHTML}<p class="pq-question-text">${escHtml(intro)}</p>
     <div class="pq-qc-grid">
       <div class="pq-qc-col"><div class="pq-qc-label">Column A</div><div class="pq-qc-content">${escHtml(colA)}</div></div>
       <div class="pq-qc-col"><div class="pq-qc-label">Column B</div><div class="pq-qc-content">${escHtml(colB)}</div></div>
@@ -2118,14 +2128,14 @@ function bankRenderQuestion(){
       return`<button class="pq-option" id="pq-opt-${l}" onclick="bankSelectOpt('${l}',this)">${escHtml(o)}</button>`;
     }).join('')}</div>`;
   }else if(q.type==='numeric_entry'){
-    bodyHTML=`<p class="pq-question-text">${escHtml(q.question)}</p>
+    bodyHTML=`${visualHTML}<p class="pq-question-text">${escHtml(q.question)}</p>
     <div class="pq-numeric-wrap">
       <input type="text" id="pq-numeric-input" placeholder="Enter answer" style="max-width:240px;font-family:var(--font-mono);font-size:20px;text-align:center;padding:14px;" onkeydown="if(event.key==='Enter')bankSubmit()">
       <div style="font-size:12px;color:var(--text3);margin-top:8px;font-family:var(--font-mono);">Type your answer and press Submit</div>
     </div>`;
   }else{
     const isMulti=q.type==='multiple_answer';
-    bodyHTML=`<p class="pq-question-text">${escHtml(q.question)}</p>
+    bodyHTML=`${visualHTML}<p class="pq-question-text">${escHtml(q.question)}</p>
     ${isMulti?'<p style="font-size:12px;color:var(--warning);font-family:var(--font-mono);margin-bottom:12px;">⚠️ Select ALL that apply</p>':''}
     <div class="pq-options">${q.options.map((o,i)=>{
       const l=String.fromCharCode(65+i);
@@ -2737,13 +2747,19 @@ function examRenderQuestion(idx) {
   document.getElementById('bank-progress-pill').textContent = 'Q ' + (idx + 1) + ' / ' + total;
   bankState.qStartTime = Date.now();
 
+  const visualHTML2 = q.svg
+    ? `<div class="pq-figure">${q.svg}</div>`
+    : q.figure_description
+    ? `<div class="pq-figure-desc"><span class="pq-figure-label">Figure</span>${escHtml(q.figure_description)}</div>`
+    : '';
+
   let bodyHTML = '';
   if (q.type === 'quantitative_comparison') {
     const lines = q.question.split('\n');
     const intro = lines[0];
     const colA = (lines.find(l => l.startsWith('Column A:')) || 'Column A: —').replace('Column A:', '').trim();
     const colB = (lines.find(l => l.startsWith('Column B:')) || 'Column B: —').replace('Column B:', '').trim();
-    bodyHTML = `<p class="pq-question-text">${escHtml(intro)}</p>
+    bodyHTML = `${visualHTML2}<p class="pq-question-text">${escHtml(intro)}</p>
       <div class="pq-qc-grid">
         <div class="pq-qc-col"><div class="pq-qc-label">Column A</div><div class="pq-qc-content">${escHtml(colA)}</div></div>
         <div class="pq-qc-col"><div class="pq-qc-label">Column B</div><div class="pq-qc-content">${escHtml(colB)}</div></div>
@@ -2753,7 +2769,7 @@ function examRenderQuestion(idx) {
         return `<button class="pq-option" id="pq-opt-${l}" onclick="examSelectOpt('${l}',this)">${escHtml(o)}</button>`;
       }).join('')}</div>`;
   } else if (q.type === 'numeric_entry') {
-    bodyHTML = `<p class="pq-question-text">${escHtml(q.question)}</p>
+    bodyHTML = `${visualHTML2}<p class="pq-question-text">${escHtml(q.question)}</p>
       <div class="pq-numeric-wrap">
         <input type="text" id="pq-numeric-input" placeholder="Enter answer"
           style="max-width:240px;font-family:var(--font-mono);font-size:20px;text-align:center;padding:14px;"
@@ -2762,7 +2778,7 @@ function examRenderQuestion(idx) {
       </div>`;
   } else {
     const isMulti = q.type === 'multiple_answer';
-    bodyHTML = `<p class="pq-question-text">${escHtml(q.question)}</p>
+    bodyHTML = `${visualHTML2}<p class="pq-question-text">${escHtml(q.question)}</p>
       ${isMulti ? '<p style="font-size:12px;color:var(--warning);font-family:var(--font-mono);margin-bottom:12px;">⚠️ Select ALL that apply</p>' : ''}
       <div class="pq-options">${q.options.map((o,i)=>{
         const l = String.fromCharCode(65+i);
