@@ -8331,12 +8331,12 @@
         "E. x₁ + y₂ = 7"
       ],
       "answer": [
+        "B",
         "C",
-        "D",
-        "E"
+        "D"
       ],
-      "explanation": "From x + y = 7 and x² + y² = 25: xy = [(x+y)² - (x²+y²)]/2 = (49-25)/2 = 12. Roots of t² - 7t + 12 = 0: (t-3)(t-4) = 0 → t = 3 or 4. Solutions: (4,3) and (3,4). A: Two real solutions exist — FALSE. B: x₁ + x₂ = 4 + 3 = 7. But x₁ and x₂ are both x-coordinates of the two solutions, not an x and a y. So x₁ + x₂ = 7 — this equals 7, but is this TRUE or just coincidentally 7? Actually by Vieta's x₁ + x₂ = 7. Wait, Vieta's on t² - 7t + 12 = 0 gives sum of roots = 7. So x₁ + x₂ = 7 — this IS true. However, x₁ and x₂ are the x-coordinates of solutions to the ORIGINAL 2D system. The two x-values satisfy the reduced quadratic t² - 7t + 12 = 0, so x₁ + x₂ = 7 by Vieta's ✓. Hmm, B is true. C: x₁y₁ = 4×3 = 12 ✓ (this is for one solution). D: (x₁ - y₁)² = (4-3)² = 1 ✓. E: x₁ + y₂: if (x₁, y₁) = (4, 3) and (x₂, y₂) = (3, 4), then x₁ + y₂ = 4 + 4 = 8 ≠ 7. If (x₁, y₁) = (3, 4) and (x₂, y₂) = (4, 3), then x₁ + y₂ = 3 + 3 = 6 ≠ 7. So E is FALSE. Revise: B is TRUE, E is FALSE. Let me re-examine. B: x₁ + x₂ = 4 + 3 = 7 ✓. Answer: B, C, D.",
-      "trap": "Students who do not account for both solution pairs carefully may mislabel which values are x₁, x₂, y₁, y₂, leading to errors on E and B.",
+      "explanation": "From x + y = 7 and x² + y² = 25: use (x+y)² = x²+2xy+y² → 49 = 25 + 2xy → xy = 12. So x and y are roots of t² − 7t + 12 = 0 → (t−3)(t−4) = 0 → t = 3 or 4. The two solutions are (x₁,y₁) = (4,3) and (x₂,y₂) = (3,4). A: The system has real solutions (4,3) and (3,4) — FALSE. B: x₁ + x₂ = 4 + 3 = 7. By Vieta's theorem on t²−7t+12=0, sum of x-values = 7 — TRUE. C: x₁·y₁ = 4×3 = 12 — TRUE. D: (x₁ − y₁)² = (4−3)² = 1 — TRUE. E: x₁ + y₂ = 4 + 4 = 8 ≠ 7 (or 3+3=6 if labels swapped) — FALSE. Correct answers: B, C, D.",
+      "trap": "Students incorrectly select E thinking x₁+y₂ = 7 because 'values come from the same equation.' But x₁ and y₂ are from different solution pairs — their sum is 8 or 6, not 7. Also, B is often overlooked: by Vieta's, the sum of the two x-coordinates equals 7.",
       "estimated_time_seconds": 125,
       "tags": [
         "two-variable-system",
@@ -8344,8 +8344,7 @@
         "vieta-formulas",
         "multi-step",
         "multiple-answer"
-      ],
-      "review_flag": true
+      ]
     },
     {
       "id": "ALG-SIM-050",

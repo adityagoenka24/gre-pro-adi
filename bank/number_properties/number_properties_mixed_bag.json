@@ -2478,13 +2478,12 @@
       "options": [
         "A. 6",
         "B. 9",
-        "C. 12",
-        "D. 15",
-        "E. 18"
+        "C. 18",
+        "D. 23",
+        "E. 27"
       ],
-      "answer": "C",
-      "explanation": "LCM(a,b)=60=2²×3×5. For each prime, count ordered pairs of exponents with maximum = required. Prime 2 (max=2): pairs (α,δ) with max(α,δ)=2 — total pairs with max≤2 is 9; with max≤1 is 4; so exactly 5 ordered pairs. Prime 3 (max=1): pairs with max(β,ε)=1 — total 4; max≤0 is 1; so 3 ordered pairs. Prime 5 (max=1): same as prime 3, so 3 ordered pairs. Total ordered pairs (a,b): 5×3×3=45. Pairs where a=b: need LCM(a,a)=a=60, so only (60,60): 1 pair. Pairs with a≠b: (45−1)/2=22 unordered pairs. Total with a≤b: 22+1=23. Closest answer is C(12), but the exact count by this method is 23. The standard result for LCM(a,b)=p₁^e₁×...×pₖ^eₖ is that the number of unordered pairs is ∏((2eᵢ+1)+1)/2=∏(eᵢ+1) — wait, the formula is: ordered pairs = ∏(2eᵢ+1), unordered = (∏(2eᵢ+1)+1)/2. Here: (5×3×3+1)/2=(45+1)/2=23. Answer is 23, which isn't listed. The closest provided answer is C(12).",
-      "review_flag": true,
+      "answer": "D",
+      "explanation": "LCM(a,b) = 60 = 2²×3×5. For each prime, count ordered exponent pairs with max equal to the required exponent: Prime 2 (max=2): ordered pairs from {0,1,2}² with max=2: total 9, minus max≤1: 4 → 5 pairs. Prime 3 (max=1): pairs from {0,1}² with max=1: total 4, minus max=0: 1 → 3 pairs. Prime 5 (max=1): same as prime 3 → 3 pairs. Total ordered pairs (a,b) with LCM=60: 5×3×3 = 45. The only pair with a=b is (60,60) [since LCM(a,a)=a=60]. Unordered pairs with a<b: (45−1)/2 = 22. Total with a≤b: 22+1 = 23.",
       "trap": "Students may confuse ordered and unordered pairs, or incorrectly apply the formula. The number of ordered pairs (a,b) with LCM=60 is ∏(2eᵢ+1)=5×3×3=45. The number of pairs with a≤b is (45+1)/2=23. If the intended answer differs, the question may have a different constraint.",
       "estimated_time_seconds": 120,
       "tags": [
@@ -3751,24 +3750,6 @@
         "legendre-formula",
         "conceptual",
         "counterintuitive"
-      ]
-    },
-    {
-      "id": "NUM-PRF-055",
-      "difficulty": "extreme_hard",
-      "type": "numeric_entry",
-      "question": "How many positive integers n ≤ 500 have the property that n² − 1 is divisible by a prime p where 5 < p < 15?",
-      "options": null,
-      "answer": "152",
-      "explanation": "n²−1 = (n−1)(n+1). Primes between 5 and 15: 7, 11, 13. We need 7|(n−1)(n+1) OR 11|(n−1)(n+1) OR 13|(n−1)(n+1). For prime p: p|(n−1)(n+1) iff p|n−1 or p|n+1, i.e., n≡1 or n≡p−1 (mod p). For p=7: n≡1 or n≡6 (mod 7). In [1,500]: each residue class has ⌊500/7⌋=71 or 72 members. n≡1: 1,8,...,498 → 72 values. n≡6: 6,13,...,496 → 71 values. Count=143. For p=11: n≡1 or n≡10 (mod 11). n≡1: ⌈500/11⌉=46 values (1,12,...,496). n≡10: 10,21,...,494 → 45 values. Count=91. For p=13: n≡1 or n≡12 (mod 13). n≡1: 1,14,...,495 → 39 values. n≡12: 12,25,...,493 → 38 values. Count=77. Inclusion-exclusion for overlaps (p=7 and p=11: n≡1 or ≡6 mod 7 AND n≡1 or ≡10 mod 11). By CRT, 4 residues mod 77, each occurring ⌊500/77⌋≈6-7 times → approx 26. This calculation becomes complex; the exact answer requires careful CRT analysis. Due to complexity, this is a 'setup and structure' question — the answer is 152 via inclusion-exclusion with CRT.",
-      "review_flag": true,
-      "trap": "Students may count each prime separately and add (143+91+77=311), double-counting numbers divisible by both 7 and 11, or 7 and 13, etc. Inclusion-exclusion with the Chinese Remainder Theorem is needed for exact counting.",
-      "estimated_time_seconds": 125,
-      "tags": [
-        "prime-definition",
-        "divisibility",
-        "inclusion-exclusion",
-        "multi-step"
       ]
     },
     {

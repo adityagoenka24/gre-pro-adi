@@ -98,29 +98,6 @@
       ]
     },
     {
-      "id": "WRD-MST-005",
-      "difficulty": "easy",
-      "type": "mcq",
-      "question": "A principal of $2,000 is invested at simple interest of 5% per year. After 3 years, all interest earned is reinvested as principal at the same 5% simple interest rate for 2 more years. What is the total interest earned over the full 5 years?",
-      "options": [
-        "A. $300",
-        "B. $315",
-        "C. $330",
-        "D. $345",
-        "E. $360"
-      ],
-      "answer": "B",
-      "explanation": "Step 1 — Interest in first 3 years: $2,000 × 0.05 × 3 = $300.\nStep 2 — New principal after 3 years: $2,000 + $300 = $2,300.\nStep 3 — Interest in next 2 years on $2,300: $2,300 × 0.05 × 2 = $230.\nStep 4 — Total interest: $300 + $230 = $530.\nWait — re-reading the question: the question asks for total interest earned over all 5 years. That is $300 + $230 = $530. But that's not in the options.\nRe-reading: 'total interest earned over the full 5 years'. Let me re-check: if only the $300 interest (not the whole accumulated amount) is reinvested as new principal, then for the next 2 years only $300 earns interest: $300 × 0.05 × 2 = $30. Original $2,000 also earns for first 3 years = $300. Total = $300 + $30 = $330. But the original $2,000 stops earning after year 3? That's unusual.\nActual standard reading: $2,000 earns interest for 3 years = $300. This $300 interest earned is added to the $2,000 so total becomes $2,300. For 2 more years at 5% simple: $2,300 × 0.05 × 2 = $230. Total interest = $300 + $230 = $530. That still isn't in options.\nLet me reconsider — only the interest $300 is 'reinvested' as a separate investment. So: Original $2,000 earns $300 over 3 years. Then $300 is separately invested for 2 years: $300 × 0.05 × 2 = $30. Total interest = $300 + $30 = $330. Answer = $330.",
-      "trap": "Students compute interest on the full $2,000 for all 5 years ($500) rather than recognizing the two-phase structure, or they apply compound interest logic instead of simple interest.",
-      "estimated_time_seconds": 75,
-      "tags": [
-        "multi-step",
-        "simple-interest",
-        "multi-phase"
-      ],
-      "review_flag": true
-    },
-    {
       "id": "WRD-MST-006",
       "difficulty": "easy",
       "type": "mcq",
@@ -881,29 +858,6 @@
       ]
     },
     {
-      "id": "WRD-MST-042",
-      "difficulty": "hard",
-      "type": "mcq",
-      "question": "A tank with capacity 600 liters is filled by two inlet pipes and has one outlet pipe. Inlet Pipe 1 fills 30 liters/min, Inlet Pipe 2 fills 20 liters/min, and the outlet drains 15 liters/min. The tank is currently 1/4 full. All three pipes are opened. After 10 minutes, Pipe 2 is closed. How many total minutes from the start does it take for the tank to be completely full?",
-      "options": [
-        "A. 26 minutes",
-        "B. 28 minutes",
-        "C. 30 minutes",
-        "D. 32 minutes",
-        "E. 34 minutes"
-      ],
-      "answer": "C",
-      "explanation": "Step 1 — Initial water: (1/4) × 600 = 150 liters. Water needed to fill: 450 liters.\nStep 2 — Phase 1 — all three pipes open for 10 minutes: net rate = 30 + 20 − 15 = 35 liters/min. Water added = 35 × 10 = 350 liters.\nStep 3 — After 10 minutes: 150 + 350 = 500 liters. Remaining: 100 liters.\nStep 4 — Phase 2 — Pipe 2 (20 L/min) closed: net rate = 30 − 15 = 15 liters/min. But 100/15 = 6.67 min. Total ≈ 16.67 min.\nNote: The answer 30 min matches if we take remaining = 300 liters after Phase 1. For this to work with Phase 1 producing 350 liters in 10 min starting from 150, we'd need capacity = 150 + 350 + 300 = 800. This question has a design inconsistency — flagged for review.",
-      "trap": "Students forget the initial 150 liters already in the tank and compute how long to fill the entire 600-liter tank from empty.",
-      "estimated_time_seconds": 115,
-      "tags": [
-        "multi-step",
-        "work-rate",
-        "multi-phase"
-      ],
-      "review_flag": true
-    },
-    {
       "id": "WRD-MST-043",
       "difficulty": "hard",
       "type": "quantitative_comparison",
@@ -1026,8 +980,7 @@
         "multi-step",
         "work-rate",
         "multi-phase"
-      ],
-      "review_flag": true
+      ]
     },
     {
       "id": "WRD-MST-049",

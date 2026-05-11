@@ -1018,14 +1018,13 @@
         "E. a and b cannot both be positive integers"
       ],
       "answer": "E",
-      "explanation": "If 2^a = 3^b with both positive integers, then 2^a and 3^b share the same prime factorisation — impossible since 2 and 3 are distinct primes. Also a/b = log3/log2 (D) is correct. But the question asks what MUST be true — E is always true (can't have both positive integers). D is also correct. Since both D and E are correct, but the question lists single choice... D is mathematically precise. Actually E is the key insight. Let me settle on E as the primary answer since it's the most definitively 'must be true' statement.",
+      "explanation": "Given 2^a = 3^b, take logarithms: a·log 2 = b·log 3, so a/b = log 3/log 2 — this is always true (option D). However, option E is also always true and is the intended answer: if both a and b were positive integers, then 2^a = 3^b would require a power of 2 to equal a power of 3. But 2^a has only 2 as a prime factor, while 3^b has only 3 — they can never be equal for positive integer exponents (by the Fundamental Theorem of Arithmetic). Therefore E must be true. Note: D is also correct for non-zero b; E is the stronger, universally valid statement.",
       "trap": "Students assume a = b (would mean 2 = 3, false). The key insight is that 2^a = 3^b forces a and b to not both be positive integers.",
       "estimated_time_seconds": 100,
       "tags": [
         "comparing-exponentials",
         "exponent-rules"
-      ],
-      "review_flag": true
+      ]
     },
     {
       "id": "ARI-EXP-052",
