@@ -34,8 +34,7 @@
       "tags": [
         "area",
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-002",
@@ -56,8 +55,7 @@
       "tags": [
         "perimeter",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-003",
@@ -71,8 +69,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "circle-area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-004",
@@ -114,8 +111,7 @@
       "tags": [
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-006",
@@ -129,8 +125,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "circumference"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-007",
@@ -152,8 +147,7 @@
         "area",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-008",
@@ -174,8 +168,7 @@
         "area",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-009",
@@ -195,8 +188,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 230 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 50,40 210,40 180,130' fill='none' stroke='#aaa' stroke-width='2'/><line x1='80' y1='130' x2='80' y2='40' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='88,130 88,122 80,122' fill='none' stroke='#888' stroke-width='1.5'/><text x='84' y='85' font-size='11' fill='#6c63ff'>h</text><text x='96' y='144' font-size='11' fill='#888'>base</text><text x='6' y='136' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='36' y='36' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='216' y='36' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='186' y='136' font-size='12' fill='#aaa' font-weight='600'>D</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-010",
@@ -216,8 +208,7 @@
       "estimated_time_seconds": 50,
       "tags": [
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 230 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 60,40 170,40 210,130' fill='none' stroke='#aaa' stroke-width='2'/><line x1='115.0' y1='125.0' x2='115.0' y2='135.0' stroke='#888' stroke-width='1.5'/><line x1='115.0' y1='35.0' x2='115.0' y2='45.0' stroke='#888' stroke-width='1.5'/><line x1='100' y1='130' x2='100' y2='40' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='108,130 108,122 100,122' fill='none' stroke='#888' stroke-width='1.5'/><text x='104' y='85' font-size='11' fill='#6c63ff'>h</text><text x='103' y='144' font-size='10' fill='#888'>b₁</text><text x='107' y='34' font-size='10' fill='#888'>b₂</text><text x='6' y='136' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='46' y='36' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='176' y='36' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='216' y='136' font-size='12' fill='#aaa' font-weight='600'>D</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-011",
@@ -231,8 +222,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-012",
@@ -273,8 +263,7 @@
       "tags": [
         "circumference",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-014",
@@ -294,8 +283,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-015",
@@ -321,8 +309,7 @@
         "area",
         "perimeter",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-016",
@@ -344,8 +331,7 @@
         "area",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-017",
@@ -360,8 +346,7 @@
       "tags": [
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='119.0,140 35,140 35,28.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='123' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='28' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='77' y='154' font-size='11' fill='#6c63ff'>6</text><text x='13' y='84' font-size='11' fill='#6c63ff'>8</text><text x='83' y='84' font-size='11' fill='#f7971e'>10</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-018",
@@ -382,8 +367,7 @@
       "tags": [
         "shaded-region",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-019",
@@ -405,8 +389,7 @@
         "perimeter",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-020",
@@ -428,8 +411,7 @@
         "shaded-region",
         "circle-area",
         "composite-figure"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-021",
@@ -444,8 +426,7 @@
       "tags": [
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-022",
@@ -466,8 +447,7 @@
         "perimeter",
         "area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-023",
@@ -516,8 +496,7 @@
         "perimeter",
         "scaling",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-025",
@@ -539,8 +518,7 @@
         "area",
         "unit-conversion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-026",
@@ -556,8 +534,7 @@
         "scaling",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-027",
@@ -579,8 +556,7 @@
         "composite-figure",
         "shaded-region",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-028",
@@ -601,8 +577,7 @@
         "circle-area",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-029",
@@ -624,8 +599,7 @@
         "circle-area",
         "circumference",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-030",
@@ -641,8 +615,7 @@
         "area",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-031",
@@ -670,8 +643,7 @@
         "perimeter",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-032",
@@ -692,8 +664,7 @@
       "tags": [
         "unit-conversion",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-033",
@@ -729,8 +700,7 @@
       "tags": [
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-035",
@@ -752,8 +722,7 @@
         "circle-area",
         "circumference",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-036",
@@ -775,8 +744,7 @@
         "composite-figure",
         "circle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-037",
@@ -797,8 +765,7 @@
         "scaling",
         "area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-038",
@@ -814,8 +781,7 @@
         "area",
         "unit-conversion",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-039",
@@ -837,8 +803,7 @@
         "area",
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-040",
@@ -854,8 +819,7 @@
         "area",
         "composite-figure",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-041",
@@ -877,8 +841,7 @@
         "area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-042",
@@ -894,8 +857,7 @@
         "shaded-region",
         "circle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-043",
@@ -910,8 +872,7 @@
       "tags": [
         "triangle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-044",
@@ -933,8 +894,7 @@
         "area",
         "scaling",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-045",
@@ -955,8 +915,7 @@
         "perimeter",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-046",
@@ -984,8 +943,7 @@
         "circumference",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-047",
@@ -1001,8 +959,7 @@
         "area",
         "unit-conversion",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-048",
@@ -1046,8 +1003,7 @@
         "area",
         "triangle-area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-050",
@@ -1069,8 +1025,7 @@
         "circle-area",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-051",
@@ -1086,8 +1041,7 @@
         "area",
         "composite-figure",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-052",
@@ -1115,8 +1069,7 @@
         "area",
         "perimeter",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-053",
@@ -1180,8 +1133,7 @@
         "perimeter",
         "composite-figure",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-056",
@@ -1203,8 +1155,7 @@
         "circumference",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-057",
@@ -1227,8 +1178,7 @@
         "shaded-region",
         "circle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-058",
@@ -1244,8 +1194,7 @@
         "composite-figure",
         "shaded-region",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-059",
@@ -1273,8 +1222,7 @@
         "perimeter",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-PNA-060",
@@ -1296,8 +1244,7 @@
         "scaling",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     }
   ]
 }

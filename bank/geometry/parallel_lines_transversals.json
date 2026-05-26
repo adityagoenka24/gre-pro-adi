@@ -34,8 +34,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-002",
@@ -56,8 +55,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='147.1' y1='23.0' x2='134.7' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.4 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>110°</text><path d='M 169.8,129.4 A 18,18 0 0,1 169.8,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='173.8' y='126.0' font-size='11' fill='#f7971e'>110°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-003",
@@ -72,8 +70,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='114.5' y1='22.4' x2='126.0' y2='177.6' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>72°</text><path d='M 128.5,129.6 A 18,18 0 0,1 128.5,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='132.5' y='126.0' font-size='11' fill='#f7971e'>72°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-004",
@@ -94,14 +91,13 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='101.3' y1='29.0' x2='116.7' y2='171.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.7 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>55°</text><path d='M 106.0,129.7 A 18,18 0 0,1 106.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='110.0' y='126.0' font-size='11' fill='#f7971e'>55°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-005",
       "difficulty": "easy",
       "type": "mcq",
-      "question": "In the figure, lines p and q are parallel. A transversal creates angle x = 130° at line p. What is the value of the co-interior angle at line q on the same side of the transversal?",
+      "question": "Lines p and q are parallel. A transversal crosses both, creating angle x = 130° at line p. What is the measure of the co-interior angle at line q on the same side of the transversal?",
       "options": [
         "A. 50°",
         "B. 60°",
@@ -116,8 +112,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='162.1' y1='31.7' x2='148.2' y2='168.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.3 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>130°</text><path d='M 198.3,129.3 A 18,18 0 0,1 198.3,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='202.3' y='126.0' font-size='11' fill='#f7971e'>130°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-006",
@@ -138,8 +133,7 @@
         "parallel-lines",
         "transversal",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='121.3' y1='20.8' x2='128.1' y2='179.2' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>80°</text><path d='M 137.4,129.6 A 18,18 0 0,1 137.4,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='141.4' y='126.0' font-size='11' fill='#f7971e'>80°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-007",
@@ -154,8 +148,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='91.7' y1='37.9' x2='96.8' y2='162.1' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.8 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>40°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-008",
@@ -176,8 +169,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='117.1' y1='21.7' x2='126.9' y2='178.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>75°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-009",
@@ -199,8 +191,7 @@
         "parallel-lines",
         "transversal",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='130.0' y1='20.0' x2='130.0' y2='180.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.5 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>90°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-010",
@@ -222,8 +213,7 @@
         "transversal",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='130.0' y1='20.0' x2='130.0' y2='180.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.5 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>90°</text><path d='M 148.0,129.5 A 18,18 0 0,1 148.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='152.0' y='126.0' font-size='11' fill='#f7971e'>90°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-011",
@@ -244,8 +234,7 @@
       "tags": [
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='155.0' y1='26.7' x2='139.6' y2='173.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.3 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>120°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-012",
@@ -261,8 +250,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-013",
@@ -284,14 +272,13 @@
         "parallel-lines",
         "transversal",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='151.1' y1='24.7' x2='136.8' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.4 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>115°</text><path d='M 176.0,129.4 A 18,18 0 0,1 176.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='180.0' y='126.0' font-size='11' fill='#f7971e'>115°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-014",
       "difficulty": "medium",
       "type": "mcq",
-      "question": "In the figure, lines l and m are parallel. A transversal t cuts both. The angle formed between t and l is (4x − 10)° and the co-interior angle at m is (2x + 30)°. Find the value of x.",
+      "question": "Lines l and m are parallel. A transversal t cuts both. The angle formed between t and l is (4x − 10)° and the co-interior angle at m is (2x + 30)°. Find the value of x.",
       "options": [
         "A. 20",
         "B. 25",
@@ -307,8 +294,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-015",
@@ -324,8 +310,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-016",
@@ -347,8 +332,7 @@
         "transversal",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-017",
@@ -374,8 +358,7 @@
         "transversal",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-018",
@@ -398,8 +381,7 @@
         "transversal",
         "similar-triangles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-019",
@@ -421,8 +403,7 @@
         "parallel-lines",
         "transversal",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-020",
@@ -438,8 +419,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-021",
@@ -461,8 +441,7 @@
         "transversal",
         "similar-triangles",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-022",
@@ -484,8 +463,7 @@
         "parallel-lines",
         "transversal",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-023",
@@ -513,8 +491,7 @@
         "transversal",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-024",
@@ -531,8 +508,7 @@
         "transversal",
         "similar-triangles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-025",
@@ -554,8 +530,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-026",
@@ -576,8 +551,7 @@
         "parallel-lines",
         "transversal",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-027",
@@ -599,8 +573,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='96.5' y1='32.8' x2='109.4' y2='167.2' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.7 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>48°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-028",
@@ -616,8 +589,7 @@
         "parallel-lines",
         "transversal",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-029",
@@ -645,8 +617,7 @@
         "transversal",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-030",
@@ -669,8 +640,7 @@
         "similar-triangles",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-031",
@@ -693,8 +663,7 @@
         "transversal",
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-032",
@@ -716,8 +685,7 @@
         "parallel-lines",
         "transversal",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='180.0' y1='70.0' x2='-920.0' y2='130.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.0 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>180°</text><path d='M -852.0,129.0 A 18,18 0 0,1 -852.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='-848.0' y='126.0' font-size='11' fill='#f7971e'>180°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-033",
@@ -740,8 +708,7 @@
         "qc",
         "conceptual",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-034",
@@ -764,8 +731,7 @@
         "transversal",
         "similar-triangles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-035",
@@ -781,8 +747,7 @@
         "parallel-lines",
         "transversal",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-036",
@@ -805,14 +770,13 @@
         "triangle-angles",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='91.7' y1='37.9' x2='96.8' y2='162.1' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.8 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>40°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-037",
       "difficulty": "hard",
       "type": "mcq",
-      "question": "In the figure, AB ∥ CD. Point E is between the two parallel lines. Angle ABE = 35° and angle CDE = 50°. What is the measure of angle BED?",
+      "question": "AB ∥ CD. Point E lies between the two parallel lines. Angle ABE = 35° and angle CDE = 50°. What is the measure of angle BED?",
       "options": [
         "A. 75°",
         "B. 80°",
@@ -829,8 +793,7 @@
         "transversal",
         "triangle-angles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='89.0' y1='41.3' x2='85.3' y2='158.7' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.8 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>35°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-038",
@@ -858,8 +821,7 @@
         "transversal",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-039",
@@ -875,8 +837,7 @@
         "parallel-lines",
         "transversal",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-040",
@@ -898,8 +859,7 @@
         "parallel-lines",
         "transversal",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><path d='M 120.0,129.6 A 18,18 0 0,1 120.0,130.0' fill='none' stroke='#f7971e' stroke-width='1.5' stroke-dasharray='3,2'/><text x='124.0' y='126.0' font-size='11' fill='#f7971e'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-041",
@@ -922,8 +882,7 @@
         "similar-triangles",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-042",
@@ -940,8 +899,7 @@
         "transversal",
         "similar-triangles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-043",
@@ -964,8 +922,7 @@
         "transversal",
         "triangle-angles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='105.0' y1='26.7' x2='120.4' y2='173.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.7 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>60°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-044",
@@ -992,14 +949,13 @@
         "transversal",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-045",
       "difficulty": "hard",
       "type": "quantitative_comparison",
-      "question": "In the figure, PQ ∥ RS. Point T is above line PQ. Lines TP and TQ meet PQ at P and Q, making angle TPQ = 50° and angle TQP = 70°. A perpendicular from T to line RS meets RS at point F.\nColumn A: Angle PTQ\nColumn B: 60°",
+      "question": "PQ ∥ RS. Point T is above line PQ. Lines TP and TQ meet PQ at P and Q, making angle TPQ = 50° and angle TQP = 70°. A perpendicular from T to line RS meets RS at point F.\n\nColumn A: Angle PTQ\nColumn B: 60°",
       "options": [
         "A. Column A is greater",
         "B. Column B is greater",
@@ -1016,14 +972,13 @@
         "triangle-angles",
         "qc",
         "red-herring"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='97.9' y1='31.7' x2='111.8' y2='168.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.7 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>50°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-046",
       "difficulty": "extreme_hard",
       "type": "mcq",
-      "question": "In the figure, lines l₁ ∥ l₂ ∥ l₃. Transversal t₁ intersects them at A (on l₁), B (on l₂), C (on l₃) with AB = 6 and BC = 9. Transversal t₂ intersects them at D (on l₁), E (on l₂), F (on l₃) with DE = 6. A line drawn from A through E is extended to meet l₃ at point G. What is the length FG?",
+      "question": "Lines l₁ ∥ l₂ ∥ l₃. Transversal t₁ intersects them at A (on l₁), B (on l₂), C (on l₃) with AB = 6 and BC = 9. Transversal t₂ intersects them at D (on l₁), E (on l₂), F (on l₃) with DE = 6. A line drawn from A through E is extended to meet l₃ at point G. What is the length FG?",
       "options": [
         "A. 3.5",
         "B. 5",
@@ -1040,8 +995,7 @@
         "transversal",
         "multi-step",
         "similar-triangles"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-047",
@@ -1058,8 +1012,7 @@
         "transversal",
         "multi-step",
         "similar-triangles"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-048",
@@ -1082,14 +1035,13 @@
         "similar-triangles",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-049",
       "difficulty": "extreme_hard",
       "type": "mcq",
-      "question": "In the figure, PQ ∥ RS. T is a point above PQ. Lines from T through P and Q are extended to meet RS at U and V respectively (making TPU and TQV straight lines). Given TP = 6, PU = 9, TQ = 8, and QV = 12, what is the ratio PQ:UV?",
+      "question": "PQ ∥ RS. T is a point above PQ. Lines from T through P and Q are extended to meet RS at U and V respectively (making TPU and TQV straight lines). Given TP = 6, PU = 9, TQ = 8, and QV = 12, what is the ratio PQ:UV?",
       "options": [
         "A. 1:2",
         "B. 2:5",
@@ -1106,8 +1058,7 @@
         "transversal",
         "similar-triangles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-PLT-050",
@@ -1134,8 +1085,7 @@
         "multiple-answer",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='108.9' y1='24.7' x2='123.2' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>65°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     }
   ]
 }

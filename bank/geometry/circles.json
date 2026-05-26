@@ -33,8 +33,7 @@
       "estimated_time_seconds": 35,
       "tags": [
         "circle-area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-002",
@@ -54,8 +53,7 @@
       "estimated_time_seconds": 35,
       "tags": [
         "circumference"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-003",
@@ -69,8 +67,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "circumference"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-004",
@@ -90,8 +87,7 @@
       "estimated_time_seconds": 50,
       "tags": [
         "arc-length"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 146.3,57.5 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='105' y='64' font-size='11' fill='#6c63ff' text-anchor='middle'>60°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-005",
@@ -111,8 +107,7 @@
       "estimated_time_seconds": 50,
       "tags": [
         "sector-area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-006",
@@ -132,8 +127,7 @@
       "tags": [
         "circle-area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-007",
@@ -153,8 +147,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "circle-area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-008",
@@ -169,8 +162,7 @@
       "tags": [
         "circle-area",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-009",
@@ -191,8 +183,7 @@
       "tags": [
         "circle-area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-010",
@@ -213,8 +204,7 @@
       "tags": [
         "arc-length",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-011",
@@ -235,8 +225,7 @@
         "circumference",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-012",
@@ -252,8 +241,7 @@
         "circumference",
         "circle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-013",
@@ -273,8 +261,7 @@
       "estimated_time_seconds": 50,
       "tags": [
         "sector-area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 136.0,44.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='101' y='62' font-size='11' fill='#6c63ff' text-anchor='middle'>45°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-014",
@@ -295,8 +282,7 @@
       "tags": [
         "circle-area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-015",
@@ -311,8 +297,7 @@
       "tags": [
         "circle-area",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-016",
@@ -334,8 +319,7 @@
         "circle-area",
         "circumference",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-017",
@@ -356,8 +340,7 @@
         "circle-area",
         "area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-018",
@@ -378,8 +361,7 @@
       "tags": [
         "sector-area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-019",
@@ -400,8 +382,7 @@
       "tags": [
         "chord",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 190 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='95' cy='95' r='70' fill='none' stroke='#aaa' stroke-width='2'/><line x1='45' y1='135' x2='145' y2='135' stroke='#6c63ff' stroke-width='2'/><line x1='95' y1='95' x2='95' y2='135' stroke='#888' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='103.0,135.0 103.0,127.0 95.0,127.0' fill='none' stroke='#888' stroke-width='1.5'/><circle cx='95' cy='95' r='3' fill='#888'/><circle cx='45' cy='135' r='3' fill='#6c63ff'/><circle cx='145' cy='135' r='3' fill='#6c63ff'/><circle cx='95' cy='135' r='3' fill='#f7971e'/><text x='31' y='139' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='149' y='139' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='99' y='89' font-size='11' fill='#888'>O</text><text x='95' y='151' font-size='11' fill='#f7971e'>M</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-020",
@@ -422,8 +403,7 @@
       "tags": [
         "sector-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-021",
@@ -439,8 +419,7 @@
         "circle-area",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-022",
@@ -461,8 +440,7 @@
       "tags": [
         "inscribed-angle",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 127.3,36.8 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='99' y='61' font-size='11' fill='#6c63ff' text-anchor='middle'>35°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-023",
@@ -484,8 +462,7 @@
         "circumference",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 146.3,57.5 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='105' y='64' font-size='11' fill='#6c63ff' text-anchor='middle'>60°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-024",
@@ -508,8 +485,7 @@
         "area",
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-025",
@@ -537,8 +513,7 @@
         "arc-length",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-026",
@@ -558,8 +533,7 @@
       "estimated_time_seconds": 65,
       "tags": [
         "arc-length"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 122.5,146.3 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='119' y='82' font-size='11' fill='#6c63ff' text-anchor='middle'>150°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-027",
@@ -581,8 +555,7 @@
         "circumference",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-028",
@@ -597,8 +570,7 @@
       "tags": [
         "circle-area",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-029",
@@ -619,8 +591,7 @@
       "tags": [
         "circle-area",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-030",
@@ -648,8 +619,7 @@
         "sector-area",
         "chord",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-031",
@@ -670,8 +640,7 @@
       "tags": [
         "circumference",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-032",
@@ -693,8 +662,7 @@
         "circumference",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-033",
@@ -709,8 +677,7 @@
       "tags": [
         "sector-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 146.3,57.5 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='105' y='64' font-size='11' fill='#6c63ff' text-anchor='middle'>60°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-034",
@@ -732,8 +699,7 @@
         "inscribed-angle",
         "arc-length",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 146.3,122.5 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='116' y='75' font-size='11' fill='#6c63ff' text-anchor='middle'>120°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-035",
@@ -778,8 +744,7 @@
         "arc-length",
         "qc",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-037",
@@ -800,8 +765,7 @@
       "tags": [
         "arc-length",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 1,1 25.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='111' font-size='11' fill='#6c63ff' text-anchor='middle'>270°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-038",
@@ -816,8 +780,7 @@
       "tags": [
         "circle-area",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-039",
@@ -839,8 +802,7 @@
         "circle-area",
         "arc-length",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 151.8,69.9 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='108' y='66' font-size='11' fill='#6c63ff' text-anchor='middle'>72°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-040",
@@ -861,8 +823,7 @@
         "chord",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 190 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='95' cy='95' r='70' fill='none' stroke='#aaa' stroke-width='2'/><line x1='45' y1='135' x2='145' y2='135' stroke='#6c63ff' stroke-width='2'/><line x1='95' y1='95' x2='95' y2='135' stroke='#888' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='103.0,135.0 103.0,127.0 95.0,127.0' fill='none' stroke='#888' stroke-width='1.5'/><circle cx='95' cy='95' r='3' fill='#888'/><circle cx='45' cy='135' r='3' fill='#6c63ff'/><circle cx='145' cy='135' r='3' fill='#6c63ff'/><circle cx='95' cy='135' r='3' fill='#f7971e'/><text x='31' y='139' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='149' y='139' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='99' y='89' font-size='11' fill='#888'>O</text><text x='95' y='151' font-size='11' fill='#f7971e'>M</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-041",
@@ -884,8 +845,7 @@
         "sector-area",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-042",
@@ -901,8 +861,7 @@
         "circumference",
         "circle-area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-043",
@@ -946,8 +905,7 @@
         "circumference",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 146.3,122.5 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='116' y='75' font-size='11' fill='#6c63ff' text-anchor='middle'>120°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-045",
@@ -968,8 +926,7 @@
       "tags": [
         "tangent-line",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-046",
@@ -991,8 +948,7 @@
         "tangent-line",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-047",
@@ -1008,8 +964,7 @@
         "circle-area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-048",
@@ -1033,8 +988,7 @@
         "area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-049",
@@ -1056,8 +1010,7 @@
         "area",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-050",
@@ -1079,8 +1032,7 @@
         "sector-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-051",
@@ -1095,8 +1047,7 @@
       "tags": [
         "circle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-052",
@@ -1118,8 +1069,7 @@
         "sector-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-053",
@@ -1140,8 +1090,7 @@
         "chord",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 190 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='95' cy='95' r='70' fill='none' stroke='#aaa' stroke-width='2'/><line x1='45' y1='135' x2='145' y2='135' stroke='#6c63ff' stroke-width='2'/><line x1='95' y1='95' x2='95' y2='135' stroke='#888' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='103.0,135.0 103.0,127.0 95.0,127.0' fill='none' stroke='#888' stroke-width='1.5'/><circle cx='95' cy='95' r='3' fill='#888'/><circle cx='45' cy='135' r='3' fill='#6c63ff'/><circle cx='145' cy='135' r='3' fill='#6c63ff'/><circle cx='95' cy='135' r='3' fill='#f7971e'/><text x='31' y='139' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='149' y='139' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='99' y='89' font-size='11' fill='#888'>O</text><text x='95' y='151' font-size='11' fill='#f7971e'>M</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-054",
@@ -1163,8 +1112,7 @@
         "chord",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 190 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='95' cy='95' r='70' fill='none' stroke='#aaa' stroke-width='2'/><line x1='45' y1='135' x2='145' y2='135' stroke='#6c63ff' stroke-width='2'/><line x1='95' y1='95' x2='95' y2='135' stroke='#888' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='103.0,135.0 103.0,127.0 95.0,127.0' fill='none' stroke='#888' stroke-width='1.5'/><circle cx='95' cy='95' r='3' fill='#888'/><circle cx='45' cy='135' r='3' fill='#6c63ff'/><circle cx='145' cy='135' r='3' fill='#6c63ff'/><circle cx='95' cy='135' r='3' fill='#f7971e'/><text x='31' y='139' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='149' y='139' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='99' y='89' font-size='11' fill='#888'>O</text><text x='95' y='151' font-size='11' fill='#f7971e'>M</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-055",
@@ -1191,8 +1139,7 @@
         "tangent-line",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-056",
@@ -1208,8 +1155,7 @@
         "sector-area",
         "arc-length",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-057",
@@ -1232,8 +1178,7 @@
         "area",
         "sector-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-058",
@@ -1255,8 +1200,7 @@
         "qc",
         "conceptual",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-059",
@@ -1278,8 +1222,7 @@
         "arc-length",
         "chord",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-060",
@@ -1303,14 +1246,13 @@
       "tags": [
         "circle-area",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-061",
       "difficulty": "hard",
       "type": "mcq",
-      "question": "In the figure, a circle of radius 4 has two radii OA and OB forming a central angle of 60°. A tangent line is drawn at point A perpendicular to OA, and a tangent line at point B perpendicular to OB. The two tangent lines meet at point P. What is the distance OP?",
+      "question": "A circle of radius 4 has two radii OA and OB forming a central angle of 60°. A tangent line is drawn at point A perpendicular to OA, and a tangent line at point B perpendicular to OB. The two tangent lines meet at point P. What is the distance OP?",
       "options": [
         "A. 4",
         "B. 4√2",
@@ -1326,8 +1268,7 @@
         "tangent-line",
         "multi-step",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-062",
@@ -1348,8 +1289,7 @@
         "circle-area",
         "pythagorean-theorem",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-063",
@@ -1366,8 +1306,7 @@
         "tangent-line",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-064",
@@ -1390,8 +1329,7 @@
         "area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-065",
@@ -1413,8 +1351,7 @@
         "circumference",
         "conceptual",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-066",
@@ -1435,8 +1372,7 @@
         "chord",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 190 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='95' cy='95' r='70' fill='none' stroke='#aaa' stroke-width='2'/><line x1='45' y1='135' x2='145' y2='135' stroke='#6c63ff' stroke-width='2'/><line x1='95' y1='95' x2='95' y2='135' stroke='#888' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='103.0,135.0 103.0,127.0 95.0,127.0' fill='none' stroke='#888' stroke-width='1.5'/><circle cx='95' cy='95' r='3' fill='#888'/><circle cx='45' cy='135' r='3' fill='#6c63ff'/><circle cx='145' cy='135' r='3' fill='#6c63ff'/><circle cx='95' cy='135' r='3' fill='#f7971e'/><text x='31' y='139' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='149' y='139' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='99' y='89' font-size='11' fill='#888'>O</text><text x='95' y='151' font-size='11' fill='#f7971e'>M</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-067",
@@ -1452,8 +1388,7 @@
         "circle-area",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-068",
@@ -1475,8 +1410,7 @@
         "chord",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 190 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='95' cy='95' r='70' fill='none' stroke='#aaa' stroke-width='2'/><line x1='45' y1='135' x2='145' y2='135' stroke='#6c63ff' stroke-width='2'/><line x1='95' y1='95' x2='95' y2='135' stroke='#888' stroke-width='1.5' stroke-dasharray='4,2'/><polyline points='103.0,135.0 103.0,127.0 95.0,127.0' fill='none' stroke='#888' stroke-width='1.5'/><circle cx='95' cy='95' r='3' fill='#888'/><circle cx='45' cy='135' r='3' fill='#6c63ff'/><circle cx='145' cy='135' r='3' fill='#6c63ff'/><circle cx='95' cy='135' r='3' fill='#f7971e'/><text x='31' y='139' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='149' y='139' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='99' y='89' font-size='11' fill='#888'>O</text><text x='95' y='151' font-size='11' fill='#f7971e'>M</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-069",
@@ -1497,8 +1431,7 @@
         "sector-area",
         "area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#aaa' stroke-width='2'/><path d='M90,90 L90.0,25.0 A65,65 0 0,1 155.0,90.0 Z' fill='rgba(108,99,255,0.15)' stroke='#6c63ff' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><text x='111' y='69' font-size='11' fill='#6c63ff' text-anchor='middle'>90°</text><line x1='90' y1='90' x2='155' y2='90' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='118' y='86' font-size='10' fill='#888'>r</text></svg>"
+      ]
     },
     {
       "id": "GEO-CIR-070",
@@ -1514,8 +1447,7 @@
         "tangent-line",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='60' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='3' fill='#888'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1.5' stroke-dasharray='4,2'/><text x='95' y='84' font-size='11' fill='#6c63ff'>r</text><text x='94' y='104' font-size='11' fill='#888'>O</text></svg>"
+      ]
     }
   ]
 }

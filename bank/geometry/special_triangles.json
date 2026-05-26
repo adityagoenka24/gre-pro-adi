@@ -34,8 +34,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-002",
@@ -56,8 +55,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-003",
@@ -78,8 +76,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-004",
@@ -100,8 +97,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-005",
@@ -122,8 +118,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-006",
@@ -138,8 +133,7 @@
       "tags": [
         "special-right-triangle",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-007",
@@ -160,8 +154,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-008",
@@ -182,8 +175,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-009",
@@ -203,8 +195,7 @@
       "tags": [
         "special-right-triangle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-010",
@@ -241,8 +232,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-012",
@@ -263,8 +253,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-013",
@@ -285,8 +274,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-014",
@@ -306,8 +294,7 @@
       "tags": [
         "special-right-triangle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-015",
@@ -322,8 +309,7 @@
       "tags": [
         "special-right-triangle",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-016",
@@ -345,8 +331,7 @@
         "special-right-triangle",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-017",
@@ -368,8 +353,7 @@
         "special-right-triangle",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-018",
@@ -414,8 +398,7 @@
         "triangle-area",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-020",
@@ -431,14 +414,13 @@
         "special-right-triangle",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-021",
       "difficulty": "medium",
       "type": "mcq",
-      "question": "In the figure, triangle ABC has a right angle at C. Angle A = 30° and AB = 12. Point D is the midpoint of AB. What is the length of CD?\n\n(Note: C is the right angle vertex; CD goes from C to the midpoint of the hypotenuse.)",
+      "question": "Triangle ABC has a right angle at C. Angle A = 30° and AB = 12. Point D is the midpoint of AB. What is the length of CD?\n\n(Note: C is the right-angle vertex; CD connects C to the midpoint of the hypotenuse.)",
       "options": [
         "A. 3",
         "B. 6",
@@ -454,8 +436,7 @@
         "special-right-triangle",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-022",
@@ -483,8 +464,7 @@
         "multiple-answer",
         "triangle-area",
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-023",
@@ -506,8 +486,7 @@
         "special-right-triangle",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-024",
@@ -529,8 +508,7 @@
         "area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-025",
@@ -546,8 +524,7 @@
         "special-right-triangle",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-026",
@@ -569,8 +546,7 @@
         "special-right-triangle",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-027",
@@ -591,8 +567,7 @@
         "special-right-triangle",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-028",
@@ -614,8 +589,7 @@
         "special-right-triangle",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-029",
@@ -641,8 +615,7 @@
         "special-right-triangle",
         "triangle-area",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-030",
@@ -663,8 +636,7 @@
       "tags": [
         "special-right-triangle",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-031",
@@ -680,8 +652,7 @@
         "special-right-triangle",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-032",
@@ -702,8 +673,7 @@
         "special-right-triangle",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-033",
@@ -725,8 +695,7 @@
         "special-right-triangle",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-034",
@@ -748,8 +717,7 @@
         "special-right-triangle",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-035",
@@ -787,8 +755,7 @@
         "special-right-triangle",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-037",
@@ -814,8 +781,7 @@
         "special-right-triangle",
         "multiple-answer",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-038",
@@ -837,8 +803,7 @@
         "special-right-triangle",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-039",
@@ -860,8 +825,7 @@
         "special-right-triangle",
         "triangle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-040",
@@ -883,8 +847,7 @@
         "special-right-triangle",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-041",
@@ -905,8 +868,7 @@
         "special-right-triangle",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-042",
@@ -922,8 +884,7 @@
         "special-right-triangle",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-043",
@@ -945,8 +906,7 @@
         "special-right-triangle",
         "right-triangle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-044",
@@ -968,8 +928,7 @@
         "special-right-triangle",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-045",
@@ -1008,8 +967,7 @@
         "special-right-triangle",
         "triangle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-047",
@@ -1031,8 +989,7 @@
         "special-right-triangle",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-048",
@@ -1059,8 +1016,7 @@
         "multiple-answer",
         "triangle-area",
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-049",
@@ -1082,8 +1038,7 @@
         "triangle-area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-050",
@@ -1106,8 +1061,7 @@
         "right-triangle",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-051",
@@ -1124,8 +1078,7 @@
         "triangle-area",
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-052",
@@ -1147,8 +1100,7 @@
         "special-right-triangle",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-053",
@@ -1170,8 +1122,7 @@
         "triangle-area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-054",
@@ -1194,8 +1145,7 @@
         "triangle-area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,150 40,150 40,90' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,150 50,140 40,140' fill='none' stroke='#888' stroke-width='1.5'/><line x1='70.0' y1='155.0' x2='70.0' y2='145.0' stroke='#888' stroke-width='1.5'/><line x1='35.0' y1='120.0' x2='45.0' y2='120.0' stroke='#888' stroke-width='1.5'/><text x='72' y='154' font-size='11' fill='#f7971e'>45°</text><text x='44' y='106' font-size='11' fill='#f7971e'>45°</text><text x='54' y='146' font-size='10' fill='#888'>90°</text><text x='104' y='154' font-size='12' fill='#aaa'>A</text><text x='25' y='154' font-size='12' fill='#aaa'>C</text><text x='25' y='90' font-size='12' fill='#aaa'>B</text><text x='70' y='164' font-size='10' fill='#6c63ff'>s</text><text x='22' y='120' font-size='10' fill='#6c63ff'>s</text><text x='78' y='120' font-size='10' fill='#6c63ff'>s√2</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-055",
@@ -1211,8 +1161,7 @@
         "special-right-triangle",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-056",
@@ -1285,8 +1234,7 @@
         "multiple-answer",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-059",
@@ -1308,8 +1256,7 @@
         "special-right-triangle",
         "triangle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     },
     {
       "id": "GEO-SPT-060",
@@ -1331,8 +1278,7 @@
         "triangle-area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,140 40,140 40,36' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='50,140 50,130 40,130' fill='none' stroke='#888' stroke-width='1.5'/><text x='72' y='144' font-size='11' fill='#f7971e'>30°</text><text x='44' y='52' font-size='11' fill='#f7971e'>60°</text><text x='54' y='136' font-size='10' fill='#888'>90°</text><text x='104' y='144' font-size='12' fill='#aaa'>A</text><text x='25' y='144' font-size='12' fill='#aaa'>C</text><text x='25' y='36' font-size='12' fill='#aaa'>B</text><text x='70' y='154' font-size='10' fill='#6c63ff'>s</text><text x='18' y='88' font-size='10' fill='#6c63ff'>s√3</text><text x='76' y='88' font-size='10' fill='#6c63ff'>2s</text></svg>"
+      ]
     }
   ]
 }

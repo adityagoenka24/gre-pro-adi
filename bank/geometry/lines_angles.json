@@ -72,8 +72,7 @@
       "tags": [
         "vertical-angles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-004",
@@ -94,8 +93,7 @@
       "tags": [
         "vertical-angles",
         "linear-pair"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-005",
@@ -212,8 +210,7 @@
       "tags": [
         "perpendicular",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-011",
@@ -234,8 +231,7 @@
         "linear-pair",
         "vertical-angles",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-012",
@@ -273,8 +269,7 @@
         "corresponding-angles",
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='151.1' y1='24.7' x2='136.8' y2='175.3' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.4 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>115°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-014",
@@ -296,8 +291,7 @@
         "alternate-interior",
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='114.5' y1='22.4' x2='126.0' y2='177.6' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>72°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-015",
@@ -313,8 +307,7 @@
         "co-interior",
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='147.1' y1='23.0' x2='134.7' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.4 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>110°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-016",
@@ -358,8 +351,7 @@
       "tags": [
         "vertical-angles",
         "algebraic-proof"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-018",
@@ -381,8 +373,7 @@
         "parallel-lines",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='180.0' y1='70.0' x2='-920.0' y2='130.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.0 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>180°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-019",
@@ -421,8 +412,7 @@
         "co-interior",
         "parallel-lines",
         "algebraic-proof"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-021",
@@ -450,8 +440,7 @@
         "linear-pair",
         "angles-around-point",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-022",
@@ -473,8 +462,7 @@
         "alternate-interior",
         "parallel-lines",
         "algebraic-proof"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-023",
@@ -511,8 +499,7 @@
       "tags": [
         "vertical-angles",
         "algebraic-proof"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-025",
@@ -534,8 +521,7 @@
         "co-interior",
         "parallel-lines",
         "transversal"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='125.6' y1='20.2' x2='129.1' y2='179.8' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.5 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>85°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-026",
@@ -561,8 +547,7 @@
         "parallel-lines",
         "transversal",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-027",
@@ -682,8 +667,7 @@
         "corresponding-angles",
         "parallel-lines",
         "algebraic-proof"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-033",
@@ -733,8 +717,7 @@
         "co-interior",
         "parallel-lines",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-035",
@@ -796,14 +779,13 @@
         "linear-pair",
         "algebraic-proof",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-038",
       "difficulty": "medium",
       "type": "mcq",
-      "question": "In the figure, line AB is parallel to line CD. A transversal intersects AB at point P and CD at point Q. Angle APQ (above AB, left of transversal) = 125°. What is the measure of angle PQD (below CD, right of transversal)?",
+      "question": "Line AB is parallel to line CD. A transversal intersects AB at point P and CD at point Q. Angle APQ (above AB, left of transversal) = 125°. What is the measure of angle PQD (below CD, right of transversal)?",
       "options": [
         "A. 45°",
         "B. 55°",
@@ -820,8 +802,7 @@
         "linear-pair",
         "parallel-lines",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-039",
@@ -845,8 +826,7 @@
         "co-interior",
         "alternate-interior",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-040",
@@ -862,14 +842,13 @@
         "angle-bisector",
         "linear-pair",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-041",
       "difficulty": "hard",
       "type": "mcq",
-      "question": "In the figure, AB ∥ CD. Line EF is a transversal cutting AB at G and CD at H. A second transversal GH is drawn such that angle EGA (angle between EF and AB, on the E-side above AB) = 50° and angle GHC (angle between GH and CD, on the G-side above CD) = 70°. What is angle HGD' where G' is the extension of HG beyond G?",
+      "question": "AB ∥ CD. Line EF is a transversal cutting AB at G and CD at H. A second transversal GH is drawn such that angle EGA (angle between EF and AB, on the E-side above AB) = 50° and angle GHC (angle between GH and CD, on the G-side above CD) = 70°. What is angle HGD′, where G′ is the extension of HG beyond G?",
       "options": [
         "A. 50°",
         "B. 60°",
@@ -908,14 +887,13 @@
         "vertical-angles",
         "algebraic-proof",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-043",
       "difficulty": "hard",
       "type": "mcq",
-      "question": "Two parallel lines are cut by a transversal. One of the eight angles formed is (5x + 20)°. This angle and another angle in the figure are co-interior angles, summing to 180°. The co-interior angle equals the alternate interior angle to a third angle of (3x + 48)°. What is x?",
+      "question": "Two parallel lines are cut by a transversal. One of the eight angles formed is (5x + 20)°. This angle and another angle formed by the transversal are co-interior angles, summing to 180°. The co-interior angle equals the alternate interior angle to a third angle of (3x + 48)°. What is x?",
       "options": [
         "A. 8",
         "B. 11",
@@ -932,8 +910,7 @@
         "alternate-interior",
         "parallel-lines",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='180.0' y1='70.0' x2='-920.0' y2='130.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.0 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>180°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-044",
@@ -977,14 +954,13 @@
         "parallel-lines",
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-046",
       "difficulty": "hard",
       "type": "mcq",
-      "question": "In the figure, AB ∥ CD. A line segment EF crosses both parallel lines where E is on AB and F is on CD. Point G lies on EF between E and F. A ray from G meets AB at H and another ray from G meets CD at K. Angle HGE = 30° and angle KGF = 50°. What is angle HGK?",
+      "question": "AB ∥ CD. A line segment EF crosses both parallel lines where E is on AB and F is on CD. Point G lies on EF between E and F. A ray from G meets AB at H and another ray from G meets CD at K. Angle HGE = 30° and angle KGF = 50°. What is angle HGK?",
       "options": [
         "A. 80°",
         "B. 90°",
@@ -1042,8 +1018,7 @@
         "linear-pair",
         "parallel-lines",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-049",
@@ -1065,8 +1040,7 @@
         "linear-pair",
         "vertical-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-050",
@@ -1136,8 +1110,7 @@
         "parallel-lines",
         "algebraic-proof",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 190' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><defs><marker id='arr' markerWidth='6' markerHeight='6' refX='3' refY='3' orient='auto'><path d='M0,0 L6,3 L0,6 Z' fill='#888'/></marker></defs><line x1='20' y1='70' x2='220' y2='70' stroke='#aaa' stroke-width='1.5'/><line x1='20' y1='130' x2='220' y2='130' stroke='#aaa' stroke-width='1.5'/><line x1='108' y1='64' x2='112' y2='76' stroke='#888' stroke-width='1.5'/><line x1='118' y1='64' x2='122' y2='76' stroke='#888' stroke-width='1.5'/><line x1='108' y1='124' x2='112' y2='136' stroke='#888' stroke-width='1.5'/><line x1='118' y1='124' x2='122' y2='136' stroke='#888' stroke-width='1.5'/><line x1='112.9' y1='23.0' x2='125.3' y2='177.0' stroke='#ccc' stroke-width='2'/><path d='M 148.0,69.6 A 18,18 0 0,1 148.0,70.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><text x='152.0' y='66.0' font-size='11' fill='#6c63ff' font-weight='600'>70°</text><text x='18' y='65' font-size='11' fill='#888' font-style='italic'>l</text><text x='18' y='125' font-size='11' fill='#888' font-style='italic'>m</text><text x='10' y='175' font-size='10' fill='#666' font-style='italic'>l ∥ m</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-053",
@@ -1159,14 +1132,13 @@
         "perpendicular",
         "vertical-angles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-054",
       "difficulty": "extreme_hard",
       "type": "mcq",
-      "question": "In the figure, five rays emanate from a single point O: OA, OB, OC, OD, OE in order around the point. The angles between consecutive rays are: AOB = 2x°, BOC = 3x°, COD = x°, DOE = 4x°, EOA = (x + 36)°. What is the measure of angle BOD?",
+      "question": "Five rays emanate from a single point O: OA, OB, OC, OD, OE in order around the point. The angles between consecutive rays are: AOB = 2x°, BOC = 3x°, COD = x°, DOE = 4x°, EOA = (x + 36)°. What is the measure of angle BOD?",
       "options": [
         "A. 48°",
         "B. 60°",
@@ -1255,8 +1227,7 @@
         "multi-step",
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-058",
@@ -1279,8 +1250,7 @@
         "alternate-interior",
         "linear-pair",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><line x1='20' y1='140' x2='160' y2='20' stroke='#aaa' stroke-width='2'/><line x1='20' y1='20' x2='160' y2='140' stroke='#aaa' stroke-width='2'/><path d='M 77.3,92.7 A 18,18 0 0,1 72.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 102.7,67.3 A 18,18 0 0,1 108.0,80.0' fill='none' stroke='#6c63ff' stroke-width='1.5'/><path d='M 108.0,80.0 A 18,18 0 0,1 102.7,92.7' fill='none' stroke='#f7971e' stroke-width='1.5'/><path d='M 72.0,80.0 A 18,18 0 0,1 77.3,67.3' fill='none' stroke='#f7971e' stroke-width='1.5'/><text x='60' y='72' font-size='10' fill='#6c63ff'>α</text><text x='106' y='96' font-size='10' fill='#6c63ff'>α</text><text x='106' y='72' font-size='10' fill='#f7971e'>β</text><text x='64' y='96' font-size='10' fill='#f7971e'>β</text></svg>"
+      ]
     },
     {
       "id": "GEO-LNA-059",

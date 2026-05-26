@@ -34,8 +34,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-002",
@@ -57,8 +56,7 @@
         "triangle-angles",
         "conceptual",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-003",
@@ -73,8 +71,7 @@
       "tags": [
         "perimeter",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-004",
@@ -95,8 +92,7 @@
       "tags": [
         "triangle-angles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-005",
@@ -117,8 +113,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-006",
@@ -139,8 +134,7 @@
         "triangle-area",
         "special-right-triangle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-007",
@@ -161,8 +155,7 @@
       "tags": [
         "special-right-triangle",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-008",
@@ -177,8 +170,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-009",
@@ -199,8 +191,7 @@
       "tags": [
         "triangle-area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-010",
@@ -222,8 +213,7 @@
         "area",
         "triangle-area",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-011",
@@ -244,8 +234,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-012",
@@ -266,8 +255,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-013",
@@ -283,8 +271,7 @@
         "triangle-area",
         "special-right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-014",
@@ -306,8 +293,7 @@
         "pythagorean-theorem",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-015",
@@ -334,8 +320,7 @@
         "triangle-angles",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-016",
@@ -358,8 +343,7 @@
         "area",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-017",
@@ -382,8 +366,7 @@
         "qc",
         "multi-step",
         "counterintuitive"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-018",
@@ -400,8 +383,7 @@
         "triangle-area",
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-019",
@@ -422,8 +404,7 @@
       "tags": [
         "triangle-angles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-020",
@@ -446,8 +427,7 @@
         "qc",
         "multi-step",
         "counterintuitive"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-021",
@@ -474,8 +454,7 @@
         "special-right-triangle",
         "multiple-answer",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-022",
@@ -497,8 +476,7 @@
         "perimeter",
         "triangle-angles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-023",
@@ -514,8 +492,7 @@
         "triangle-area",
         "special-right-triangle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-024",
@@ -537,8 +514,7 @@
         "qc",
         "conceptual",
         "counterintuitive"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-025",
@@ -561,8 +537,7 @@
         "perimeter",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-026",
@@ -588,8 +563,7 @@
         "pythagorean-theorem",
         "multiple-answer",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-027",
@@ -611,8 +585,7 @@
         "triangle-area",
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-028",
@@ -635,8 +608,7 @@
         "triangle-area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-029",
@@ -652,8 +624,7 @@
         "triangle-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-030",
@@ -675,8 +646,7 @@
         "triangle-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-031",
@@ -697,8 +667,7 @@
         "triangle-angles",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-032",
@@ -727,8 +696,7 @@
         "triangle-area",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-033",
@@ -743,14 +711,13 @@
       "tags": [
         "triangle-area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-034",
       "difficulty": "hard",
       "type": "mcq",
-      "question": "In the figure, equilateral triangle ABC is inscribed in a circle. The arc BC (not containing A) is bisected by point D. What is the measure of angle DAB?",
+      "question": "Equilateral triangle ABC is inscribed in a circle. Point D lies on arc BC (the arc not containing vertex A) such that D is the midpoint of that arc. What is the measure of angle DAB?",
       "options": [
         "A. 15°",
         "B. 20°",
@@ -766,8 +733,7 @@
         "triangle-angles",
         "inscribed-angle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-035",
@@ -789,8 +755,7 @@
         "pythagorean-theorem",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-036",
@@ -806,8 +771,7 @@
         "area",
         "triangle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-037",
@@ -829,8 +793,7 @@
         "triangle-area",
         "similar-triangles",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-038",
@@ -853,8 +816,7 @@
         "qc",
         "multi-step",
         "counterintuitive"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-039",
@@ -870,8 +832,7 @@
         "triangle-area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,155 180,155' fill='none' stroke='#aaa' stroke-width='2'/><line x1='64.3' y1='90.0' x2='55.7' y2='85.0' stroke='#6c63ff' stroke-width='2'/><line x1='144.3' y1='85.0' x2='135.7' y2='90.0' stroke='#6c63ff' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='155' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='96' y='12' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='5' y='161' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='184' y='161' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='166' font-size='10' fill='#666' font-style='italic'>AB = AC</text></svg>"
+      ]
     },
     {
       "id": "GEO-IET-040",
@@ -899,8 +860,7 @@
         "multiple-answer",
         "multi-step",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,15 18,158 182,158' fill='none' stroke='#aaa' stroke-width='2'/><line x1='63.3' y1='89.0' x2='54.7' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='61.3' y1='92.5' x2='52.7' y2='87.5' stroke='#6c63ff' stroke-width='2'/><line x1='100.0' y1='153.0' x2='100.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='104.0' y1='153.0' x2='104.0' y2='163.0' stroke='#6c63ff' stroke-width='2'/><line x1='136.7' y1='89.0' x2='145.3' y2='84.0' stroke='#6c63ff' stroke-width='2'/><line x1='134.7' y1='85.5' x2='143.3' y2='80.5' stroke='#6c63ff' stroke-width='2'/><text x='96' y='7' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='3' y='164' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='164' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='84' y='33' font-size='10' fill='#f7971e'>60°</text><text x='20' y='156' font-size='10' fill='#f7971e'>60°</text><text x='164' y='156' font-size='10' fill='#f7971e'>60°</text></svg>"
+      ]
     }
   ]
 }

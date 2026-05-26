@@ -35,8 +35,7 @@
         "similar-triangles",
         "perimeter",
         "proportion"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-002",
@@ -58,8 +57,7 @@
         "similar-triangles",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-003",
@@ -81,8 +79,7 @@
         "similar-triangles",
         "area",
         "scaling"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-004",
@@ -103,8 +100,7 @@
       "tags": [
         "congruent-triangles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-005",
@@ -126,8 +122,7 @@
         "similar-triangles",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-006",
@@ -143,8 +138,7 @@
         "similar-triangles",
         "proportion",
         "scaling"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-007",
@@ -165,8 +159,7 @@
       "tags": [
         "congruent-triangles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-008",
@@ -188,8 +181,7 @@
         "area",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-009",
@@ -211,8 +203,7 @@
         "similar-triangles",
         "congruent-triangles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-010",
@@ -228,8 +219,7 @@
         "perimeter",
         "proportion",
         "scaling"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-011",
@@ -251,8 +241,7 @@
         "volume",
         "scaling",
         "similar-triangles"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-012",
@@ -273,8 +262,7 @@
       "tags": [
         "similar-triangles",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-013",
@@ -296,8 +284,7 @@
         "area",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-014",
@@ -320,8 +307,7 @@
         "area",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-015",
@@ -338,8 +324,7 @@
         "area",
         "scaling",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-016",
@@ -361,8 +346,7 @@
         "similar-triangles",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-017",
@@ -385,14 +369,13 @@
         "scaling",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-018",
       "difficulty": "medium",
       "type": "mcq",
-      "question": "In the figure, DE is parallel to BC, with D on AB and E on AC. If AD = 4, DB = 6, and BC = 15, what is the length of DE?",
+      "question": "In triangle ABC, DE is parallel to BC, with D on AB and E on AC. If AD = 4, DB = 6, and BC = 15, what is the length of DE?",
       "options": [
         "A. 4",
         "B. 6",
@@ -409,8 +392,7 @@
         "proportion",
         "two-step",
         "parallel-lines"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,150 180,150' fill='none' stroke='#aaa' stroke-width='2'/><line x1='56.0' y1='91.5' x2='144.0' y2='91.5' stroke='#6c63ff' stroke-width='2'/><text x='100' y='8' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='6' y='158' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='158' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='42' y='92' font-size='12' fill='#aaa' font-weight='600'>D</text><text x='150' y='92' font-size='12' fill='#aaa' font-weight='600'>E</text><text x='88' y='166' font-size='10' fill='#666' font-style='italic'>DE ∥ BC</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-019",
@@ -438,8 +420,7 @@
         "perimeter",
         "multiple-answer",
         "scaling"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-020",
@@ -455,8 +436,7 @@
         "similar-triangles",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-021",
@@ -478,8 +458,7 @@
         "area",
         "proportion",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-022",
@@ -502,8 +481,7 @@
         "area",
         "scaling",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-023",
@@ -526,8 +504,7 @@
         "area",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,150 180,150' fill='none' stroke='#aaa' stroke-width='2'/><line x1='56.0' y1='91.5' x2='144.0' y2='91.5' stroke='#6c63ff' stroke-width='2'/><text x='100' y='8' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='6' y='158' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='158' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='42' y='92' font-size='12' fill='#aaa' font-weight='600'>D</text><text x='150' y='92' font-size='12' fill='#aaa' font-weight='600'>E</text><text x='88' y='166' font-size='10' fill='#666' font-style='italic'>DE ∥ BC</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-024",
@@ -548,8 +525,7 @@
         "similar-triangles",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-025",
@@ -576,8 +552,7 @@
         "congruent-triangles",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-026",
@@ -593,8 +568,7 @@
         "volume",
         "scaling",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-027",
@@ -617,8 +591,7 @@
         "perimeter",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-028",
@@ -641,8 +614,7 @@
         "scaling",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-029",
@@ -665,8 +637,7 @@
         "proportion",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-030",
@@ -696,8 +667,7 @@
         "perimeter",
         "multiple-answer",
         "scaling"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-031",
@@ -714,8 +684,7 @@
         "proportion",
         "parallel-lines",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-032",
@@ -739,8 +708,7 @@
         "scaling",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-033",
@@ -763,8 +731,7 @@
         "area",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-034",
@@ -787,8 +754,7 @@
         "area",
         "proportion",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,150 180,150' fill='none' stroke='#aaa' stroke-width='2'/><line x1='56.0' y1='91.5' x2='144.0' y2='91.5' stroke='#6c63ff' stroke-width='2'/><text x='100' y='8' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='6' y='158' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='158' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='42' y='92' font-size='12' fill='#aaa' font-weight='600'>D</text><text x='150' y='92' font-size='12' fill='#aaa' font-weight='600'>E</text><text x='88' y='166' font-size='10' fill='#666' font-style='italic'>DE ∥ BC</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-035",
@@ -804,8 +770,7 @@
         "volume",
         "scaling",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-036",
@@ -828,8 +793,7 @@
         "proportion",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-037",
@@ -853,8 +817,7 @@
         "area",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-038",
@@ -877,8 +840,7 @@
         "right-triangle",
         "proportion",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-039",
@@ -895,8 +857,7 @@
         "area",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-040",
@@ -925,8 +886,7 @@
         "proportion",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='100,20 20,150 180,150' fill='none' stroke='#aaa' stroke-width='2'/><line x1='56.0' y1='91.5' x2='144.0' y2='91.5' stroke='#6c63ff' stroke-width='2'/><text x='100' y='8' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='6' y='158' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='186' y='158' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='42' y='92' font-size='12' fill='#aaa' font-weight='600'>D</text><text x='150' y='92' font-size='12' fill='#aaa' font-weight='600'>E</text><text x='88' y='166' font-size='10' fill='#666' font-style='italic'>DE ∥ BC</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-041",
@@ -949,8 +909,7 @@
         "perimeter",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-042",
@@ -973,8 +932,7 @@
         "area",
         "scaling",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-043",
@@ -991,8 +949,7 @@
         "perimeter",
         "proportion",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-044",
@@ -1015,8 +972,7 @@
         "scaling",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-045",
@@ -1044,8 +1000,7 @@
         "scaling",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-046",
@@ -1068,8 +1023,7 @@
         "right-triangle",
         "proportion",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-047",
@@ -1087,8 +1041,7 @@
         "proportion",
         "multi-step",
         "counterintuitive"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-048",
@@ -1112,8 +1065,7 @@
         "qc",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-049",
@@ -1137,8 +1089,7 @@
         "scaling",
         "multi-step",
         "counterintuitive"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     },
     {
       "id": "GEO-SCF-050",
@@ -1169,8 +1120,7 @@
         "perimeter",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 240 150' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='20,130 20,50 90,130' fill='none' stroke='#aaa' stroke-width='2'/><polygon points='140,130 140,250 245,130' fill='none' stroke='#6c63ff' stroke-width='2'/><text x='8' y='136' font-size='11' fill='#888'>A</text><text x='6' y='50' font-size='11' fill='#888'>B</text><text x='96' y='136' font-size='11' fill='#888'>C</text><text x='126' y='136' font-size='11' fill='#6c63ff'>D</text><text x='126' y='250' font-size='11' fill='#6c63ff'>E</text><text x='251' y='136' font-size='11' fill='#6c63ff'>F</text><text x='95' y='146' font-size='10' fill='#888'>△ABC ~ △DEF</text></svg>"
+      ]
     }
   ]
 }

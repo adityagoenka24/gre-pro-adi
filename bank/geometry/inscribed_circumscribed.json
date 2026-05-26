@@ -35,8 +35,7 @@
         "inscribed-angle",
         "circle-area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-002",
@@ -57,8 +56,7 @@
       "tags": [
         "circle-area",
         "inscribed-angle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-003",
@@ -80,8 +78,7 @@
         "pythagorean-theorem",
         "special-right-triangle",
         "inscribed-angle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-004",
@@ -125,8 +122,7 @@
         "inscribed-angle",
         "conceptual",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-006",
@@ -141,8 +137,7 @@
       "tags": [
         "circle-area",
         "inscribed-angle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-007",
@@ -185,8 +180,7 @@
         "area",
         "circle-area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-009",
@@ -208,8 +202,7 @@
         "pythagorean-theorem",
         "special-right-triangle",
         "inscribed-angle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-010",
@@ -231,8 +224,7 @@
         "pythagorean-theorem",
         "inscribed-angle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-011",
@@ -253,8 +245,7 @@
         "inscribed-angle",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-012",
@@ -292,8 +283,7 @@
         "circle-area",
         "area",
         "inscribed-angle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-014",
@@ -316,8 +306,7 @@
         "pythagorean-theorem",
         "special-right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-015",
@@ -340,8 +329,7 @@
         "area",
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-016",
@@ -358,14 +346,13 @@
         "pythagorean-theorem",
         "special-right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-017",
       "difficulty": "medium",
       "type": "mcq",
-      "question": "In the figure, a circle is inscribed in a square with side 10. What is the area of the shaded region between the circle and the square?",
+      "question": "A circle is inscribed in a square with side length 10, meaning the circle touches all four sides of the square from the inside. What is the area of the region inside the square but outside the circle?",
       "options": [
         "A. 100 − 25π",
         "B. 100 − 50π",
@@ -381,8 +368,7 @@
         "shaded-region",
         "circle-area",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-018",
@@ -404,8 +390,7 @@
         "circle-area",
         "qc",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-019",
@@ -431,8 +416,7 @@
         "inscribed-angle",
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-020",
@@ -471,8 +455,7 @@
         "area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-022",
@@ -567,8 +550,7 @@
         "area",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-026",
@@ -585,8 +567,7 @@
         "circle-area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-027",
@@ -608,8 +589,7 @@
         "circle-area",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-028",
@@ -653,8 +633,7 @@
         "inscribed-angle",
         "special-right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-030",
@@ -675,8 +654,7 @@
         "inscribed-angle",
         "qc",
         "pythagorean-theorem"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-031",
@@ -719,8 +697,7 @@
         "area",
         "circle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-033",
@@ -765,8 +742,7 @@
         "inscribed-angle",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-035",
@@ -829,8 +805,7 @@
         "area",
         "inscribed-angle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-038",
@@ -877,8 +852,7 @@
         "pythagorean-theorem",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-040",
@@ -923,8 +897,7 @@
         "pythagorean-theorem",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-042",
@@ -947,8 +920,7 @@
         "pythagorean-theorem",
         "conceptual",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-043",
@@ -995,8 +967,7 @@
         "area",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='85' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='25.0,25.0 155.0,25.0 155.0,155.0 25.0,155.0' fill='none' stroke='#aaa' stroke-width='2'/><line x1='25.0' y1='25.0' x2='155.0' y2='155.0' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/></svg>"
+      ]
     },
     {
       "id": "GEO-INS-045",
@@ -1018,8 +989,7 @@
         "special-right-triangle",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-046",
@@ -1043,8 +1013,7 @@
         "multi-step",
         "pattern",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-047",
@@ -1084,8 +1053,7 @@
         "qc",
         "conceptual",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-049",
@@ -1113,8 +1081,7 @@
         "area",
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><circle cx='90' cy='90' r='65' fill='none' stroke='#6c63ff' stroke-width='2'/><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='90' y='13' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='20' y='130' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='154' y='131' font-size='12' fill='#aaa' font-weight='600'>C</text><circle cx='90' cy='90' r='3' fill='#888'/><text x='95' y='86' font-size='10' fill='#888'>O</text></svg>"
+      ]
     },
     {
       "id": "GEO-INS-050",
@@ -1132,8 +1099,7 @@
         "shaded-region",
         "inscribed-angle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='30' width='120' height='120' fill='none' stroke='#aaa' stroke-width='2'/><circle cx='90' cy='90' r='60' fill='none' stroke='#6c63ff' stroke-width='2'/><line x1='90' y1='90' x2='150' y2='90' stroke='#6c63ff' stroke-width='1' stroke-dasharray='4,2'/><text x='94' y='86' font-size='10' fill='#6c63ff'>r</text><line x1='30' y1='150' x2='150' y2='150' stroke='#888' stroke-width='1' stroke-dasharray='3,2'/><text x='82' y='164' font-size='10' fill='#888'>side</text></svg>"
+      ]
     }
   ]
 }

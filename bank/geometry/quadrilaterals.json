@@ -34,8 +34,7 @@
       "tags": [
         "area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-002",
@@ -55,8 +54,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-003",
@@ -70,8 +68,7 @@
       "estimated_time_seconds": 35,
       "tags": [
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-004",
@@ -92,8 +89,7 @@
         "area",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-005",
@@ -113,8 +109,7 @@
       "estimated_time_seconds": 35,
       "tags": [
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-006",
@@ -134,8 +129,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-007",
@@ -151,8 +145,7 @@
         "perimeter",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-008",
@@ -172,8 +165,7 @@
       "tags": [
         "area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-009",
@@ -193,8 +185,7 @@
       "estimated_time_seconds": 50,
       "tags": [
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-010",
@@ -208,8 +199,7 @@
       "estimated_time_seconds": 40,
       "tags": [
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-011",
@@ -231,8 +221,7 @@
         "perimeter",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-012",
@@ -252,8 +241,7 @@
       "estimated_time_seconds": 35,
       "tags": [
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-013",
@@ -276,8 +264,7 @@
       "tags": [
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-014",
@@ -298,8 +285,7 @@
       "tags": [
         "pythagorean-theorem",
         "special-right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-015",
@@ -314,8 +300,7 @@
       "tags": [
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-016",
@@ -337,8 +322,7 @@
         "area",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-017",
@@ -359,8 +343,7 @@
         "pythagorean-theorem",
         "special-right-triangle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-018",
@@ -382,8 +365,7 @@
         "inscribed",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-019",
@@ -399,8 +381,7 @@
         "area",
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-020",
@@ -422,8 +403,7 @@
         "area",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-021",
@@ -444,8 +424,7 @@
       "tags": [
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-022",
@@ -474,8 +453,7 @@
         "area",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-023",
@@ -496,8 +474,7 @@
         "pythagorean-theorem",
         "area",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-024",
@@ -520,8 +497,7 @@
         "inscribed",
         "circle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-025",
@@ -536,8 +512,7 @@
       "tags": [
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-026",
@@ -560,8 +535,7 @@
         "pythagorean-theorem",
         "special-right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-027",
@@ -583,8 +557,7 @@
         "area",
         "two-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-028",
@@ -604,8 +577,7 @@
       "tags": [
         "pythagorean-theorem",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-029",
@@ -627,8 +599,7 @@
         "inscribed",
         "circle-area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-030",
@@ -644,8 +615,7 @@
         "perimeter",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-031",
@@ -671,8 +641,7 @@
         "perimeter",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-032",
@@ -693,8 +662,7 @@
       "tags": [
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-033",
@@ -716,8 +684,7 @@
         "pythagorean-theorem",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-034",
@@ -733,8 +700,7 @@
         "circumscribed",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-035",
@@ -756,8 +722,7 @@
         "area",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-036",
@@ -782,8 +747,7 @@
       "tags": [
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-037",
@@ -804,8 +768,7 @@
       "tags": [
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-038",
@@ -827,8 +790,7 @@
         "perimeter",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-039",
@@ -851,8 +813,7 @@
         "circle-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-040",
@@ -868,8 +829,7 @@
         "area",
         "perimeter",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-041",
@@ -892,8 +852,7 @@
         "qc",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-042",
@@ -921,8 +880,7 @@
         "area",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-043",
@@ -945,8 +903,7 @@
         "perimeter",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-044",
@@ -963,8 +920,7 @@
         "pythagorean-theorem",
         "multi-step",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-045",
@@ -985,8 +941,7 @@
       "tags": [
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-046",
@@ -1008,8 +963,7 @@
         "qc",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-047",
@@ -1031,8 +985,7 @@
         "area",
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-048",
@@ -1060,8 +1013,7 @@
         "pythagorean-theorem",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-049",
@@ -1076,8 +1028,7 @@
       "tags": [
         "pythagorean-theorem",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-050",
@@ -1100,8 +1051,7 @@
         "circle-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-051",
@@ -1122,8 +1072,7 @@
         "pythagorean-theorem",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-052",
@@ -1149,8 +1098,7 @@
         "perimeter",
         "multiple-answer",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-053",
@@ -1165,8 +1113,7 @@
       "tags": [
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-054",
@@ -1188,8 +1135,7 @@
         "inscribed",
         "pythagorean-theorem",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-055",
@@ -1212,8 +1158,7 @@
         "pythagorean-theorem",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-056",
@@ -1230,8 +1175,7 @@
         "circle-area",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-057",
@@ -1261,8 +1205,7 @@
         "multiple-answer",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-058",
@@ -1284,8 +1227,7 @@
         "area",
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-059",
@@ -1307,8 +1249,7 @@
         "perimeter",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     },
     {
       "id": "GEO-QDL-060",
@@ -1324,8 +1265,7 @@
         "area",
         "multi-step",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 220 160' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><rect x='30' y='35' width='160' height='90' fill='none' stroke='#aaa' stroke-width='2'/><polyline points='38,125 38,117 30,117' fill='none' stroke='#888' stroke-width='1.5'/><text x='102' y='141' font-size='11' fill='#6c63ff'>l</text><text x='12' y='84' font-size='11' fill='#6c63ff'>w</text></svg>"
+      ]
     }
   ]
 }

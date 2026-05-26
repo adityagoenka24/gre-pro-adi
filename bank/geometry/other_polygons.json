@@ -35,8 +35,7 @@
         "triangle-angles",
         "memorisation",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-002",
@@ -57,8 +56,7 @@
       "tags": [
         "triangle-angles",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 28.2,69.9 51.8,142.6 128.2,142.6 151.8,69.9' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 108°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-003",
@@ -80,8 +78,7 @@
         "exterior-angle",
         "conceptual",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-004",
@@ -96,8 +93,7 @@
       "tags": [
         "memorisation",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 28.2,69.9 51.8,142.6 128.2,142.6 151.8,69.9' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 108°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-005",
@@ -118,8 +114,7 @@
       "tags": [
         "exterior-angle",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 44.0,44.0 25.0,90.0 44.0,136.0 90.0,155.0 136.0,136.0 155.0,90.0 136.0,44.0' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 135°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-006",
@@ -140,8 +135,7 @@
       "tags": [
         "area",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-007",
@@ -162,8 +156,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-008",
@@ -184,8 +177,7 @@
       "tags": [
         "exterior-angle",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-009",
@@ -206,8 +198,7 @@
       "tags": [
         "exterior-angle",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-010",
@@ -222,8 +213,7 @@
       "tags": [
         "triangle-angles",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 51.8,37.4 28.2,69.9 28.2,110.1 51.8,142.6 90.0,155.0 128.2,142.6 151.8,110.1 151.8,69.9 128.2,37.4' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 144°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-011",
@@ -244,8 +234,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-012",
@@ -266,8 +255,7 @@
         "triangle-angles",
         "qc",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 44.0,44.0 25.0,90.0 44.0,136.0 90.0,155.0 136.0,136.0 155.0,90.0 136.0,44.0' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 135°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-013",
@@ -288,8 +276,7 @@
       "tags": [
         "two-step",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 44.0,44.0 25.0,90.0 44.0,136.0 90.0,155.0 136.0,136.0 155.0,90.0 136.0,44.0' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 135°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-014",
@@ -310,8 +297,7 @@
         "qc",
         "two-step",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 28.2,69.9 51.8,142.6 128.2,142.6 151.8,69.9' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 108°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-015",
@@ -326,8 +312,7 @@
       "tags": [
         "two-step",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-016",
@@ -355,8 +340,7 @@
         "triangle-angles",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-017",
@@ -378,8 +362,7 @@
         "area",
         "conceptual",
         "memorisation"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-018",
@@ -400,8 +383,7 @@
         "qc",
         "multi-step",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-019",
@@ -422,8 +404,7 @@
       "tags": [
         "triangle-angles",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 28.2,69.9 51.8,142.6 128.2,142.6 151.8,69.9' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 108°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-020",
@@ -439,8 +420,7 @@
         "area",
         "two-step",
         "real-world"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-021",
@@ -461,8 +441,7 @@
         "triangle-angles",
         "exterior-angle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 39.2,49.5 26.6,104.5 61.8,148.6 118.2,148.6 153.4,104.5 140.8,49.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 129°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-022",
@@ -489,8 +468,7 @@
         "triangle-angles",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-023",
@@ -511,8 +489,7 @@
       "tags": [
         "exterior-angle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-024",
@@ -528,8 +505,7 @@
         "area",
         "perimeter",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-025",
@@ -550,8 +526,7 @@
       "tags": [
         "two-step",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 39.2,49.5 26.6,104.5 61.8,148.6 118.2,148.6 153.4,104.5 140.8,49.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 129°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-026",
@@ -572,8 +547,7 @@
         "triangle-angles",
         "exterior-angle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-027",
@@ -595,8 +569,7 @@
         "triangle-angles",
         "exterior-angle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-028",
@@ -611,8 +584,7 @@
       "tags": [
         "two-step",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-029",
@@ -634,8 +606,7 @@
         "triangle-angles",
         "qc",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-030",
@@ -663,8 +634,7 @@
         "multiple-answer",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-031",
@@ -686,8 +656,7 @@
         "area",
         "multi-step",
         "special-right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-032",
@@ -703,8 +672,7 @@
         "triangle-angles",
         "exterior-angle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-033",
@@ -726,8 +694,7 @@
         "multi-step",
         "triangle-angles",
         "exterior-angle"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-034",
@@ -749,8 +716,7 @@
         "area",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,122.5 146.3,122.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 60°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-035",
@@ -778,8 +744,7 @@
         "exterior-angle",
         "multiple-answer",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-036",
@@ -801,8 +766,7 @@
         "triangle-angles",
         "multi-step",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-037",
@@ -817,8 +781,7 @@
       "tags": [
         "multi-step",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-038",
@@ -840,8 +803,7 @@
         "area",
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-039",
@@ -862,8 +824,7 @@
         "qc",
         "multi-step",
         "triangle-angles"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     },
     {
       "id": "GEO-POL-040",
@@ -888,8 +849,7 @@
         "multiple-answer",
         "multi-step",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='90.0,25.0 33.7,57.5 33.7,122.5 90.0,155.0 146.3,122.5 146.3,57.5' fill='none' stroke='#aaa' stroke-width='2'/><text x='70' y='172' font-size='10' fill='#666'>Each interior angle = 120°</text></svg>"
+      ]
     }
   ]
 }

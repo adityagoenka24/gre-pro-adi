@@ -35,8 +35,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-002",
@@ -58,8 +57,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-003",
@@ -75,8 +73,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='119.0,140 35,140 35,28.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='123' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='28' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='77' y='154' font-size='11' fill='#6c63ff'>6</text><text x='13' y='84' font-size='11' fill='#6c63ff'>8</text><text x='83' y='84' font-size='11' fill='#f7971e'>10</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-004",
@@ -98,8 +95,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-005",
@@ -120,8 +116,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-006",
@@ -143,8 +138,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-007",
@@ -160,8 +154,7 @@
         "pythagorean-theorem",
         "distance-formula",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-008",
@@ -183,8 +176,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-009",
@@ -205,8 +197,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-010",
@@ -228,8 +219,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='104.3,140 35,140 35,10.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='108' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='10' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='70' y='154' font-size='11' fill='#6c63ff'>8</text><text x='13' y='75' font-size='11' fill='#6c63ff'>15</text><text x='76' y='75' font-size='11' fill='#f7971e'>17</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-011",
@@ -251,8 +241,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-012",
@@ -274,8 +263,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='72.9,140 35,140 35,10.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='77' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='10' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='54' y='154' font-size='11' fill='#6c63ff'>7</text><text x='13' y='75' font-size='11' fill='#6c63ff'>24</text><text x='60' y='75' font-size='11' fill='#f7971e'>25</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-013",
@@ -296,8 +284,7 @@
         "pythagorean-theorem",
         "perimeter",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-014",
@@ -319,8 +306,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-015",
@@ -336,8 +322,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-016",
@@ -359,8 +344,7 @@
         "pythagorean-theorem",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-017",
@@ -381,8 +365,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-018",
@@ -404,8 +387,7 @@
         "pythagorean-theorem",
         "distance-formula",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-019",
@@ -431,8 +413,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-020",
@@ -448,8 +429,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-021",
@@ -471,8 +451,7 @@
         "pythagorean-theorem",
         "area",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-022",
@@ -493,8 +472,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-023",
@@ -516,8 +494,7 @@
         "pythagorean-theorem",
         "distance-formula",
         "pythagorean-triple"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-024",
@@ -533,8 +510,7 @@
         "pythagorean-theorem",
         "area",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-025",
@@ -556,8 +532,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-026",
@@ -583,8 +558,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-027",
@@ -605,8 +579,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-028",
@@ -628,8 +601,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-029",
@@ -645,8 +617,7 @@
         "pythagorean-theorem",
         "distance-formula",
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-030",
@@ -672,8 +643,7 @@
         "pythagorean-theorem",
         "conceptual",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-031",
@@ -695,8 +665,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-032",
@@ -717,8 +686,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-033",
@@ -740,8 +708,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-034",
@@ -757,8 +724,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-035",
@@ -780,8 +746,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-036",
@@ -802,8 +767,7 @@
         "pythagorean-theorem",
         "conceptual",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-037",
@@ -830,8 +794,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-038",
@@ -853,8 +816,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "right-triangle"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-039",
@@ -876,8 +838,7 @@
         "pythagorean-theorem",
         "3d-geometry",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-040",
@@ -893,8 +854,7 @@
         "pythagorean-theorem",
         "3d-geometry",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-041",
@@ -916,8 +876,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-042",
@@ -938,8 +897,7 @@
         "pythagorean-theorem",
         "3d-geometry",
         "qc"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-043",
@@ -961,8 +919,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-044",
@@ -978,8 +935,7 @@
         "pythagorean-theorem",
         "area",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-045",
@@ -1007,8 +963,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "multiple-answer"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-046",
@@ -1030,8 +985,7 @@
         "pythagorean-theorem",
         "distance-formula",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-047",
@@ -1052,8 +1006,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "perimeter"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='72.9,140 35,140 35,10.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='77' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='10' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='54' y='154' font-size='11' fill='#6c63ff'>7</text><text x='13' y='75' font-size='11' fill='#6c63ff'>24</text><text x='60' y='75' font-size='11' fill='#f7971e'>25</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-048",
@@ -1075,8 +1028,7 @@
         "pythagorean-theorem",
         "perimeter",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-049",
@@ -1092,8 +1044,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-050",
@@ -1114,8 +1065,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='64.2,140 35,140 35,10.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='68' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='10' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='50' y='154' font-size='11' fill='#6c63ff'>9</text><text x='13' y='75' font-size='11' fill='#6c63ff'>40</text><text x='56' y='75' font-size='11' fill='#f7971e'>41</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-051",
@@ -1141,8 +1091,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-052",
@@ -1164,8 +1113,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-053",
@@ -1181,8 +1129,7 @@
         "pythagorean-theorem",
         "3d-geometry",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-054",
@@ -1204,8 +1151,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-055",
@@ -1221,8 +1167,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-056",
@@ -1243,8 +1188,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-057",
@@ -1271,8 +1215,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "conceptual"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-058",
@@ -1294,8 +1237,7 @@
         "pythagorean-theorem",
         "right-triangle",
         "two-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-059",
@@ -1311,8 +1253,7 @@
         "pythagorean-theorem",
         "3d-geometry",
         "multi-step"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     },
     {
       "id": "GEO-PYT-060",
@@ -1333,8 +1274,7 @@
         "pythagorean-theorem",
         "pythagorean-triple",
         "area"
-      ],
-      "svg": "<svg viewBox='0 0 210 170' xmlns='http://www.w3.org/2000/svg' style='font-family:sans-serif;'><polygon points='77.0,140 35,140 35,84.0' fill='none' stroke='#ccc' stroke-width='2'/><polyline points='44,140 44,131 35,131' fill='none' stroke='#888' stroke-width='1.5'/><text x='81' y='144' font-size='12' fill='#aaa' font-weight='600'>A</text><text x='19' y='144' font-size='12' fill='#aaa' font-weight='600'>C</text><text x='19' y='84' font-size='12' fill='#aaa' font-weight='600'>B</text><text x='56' y='154' font-size='11' fill='#6c63ff'>3</text><text x='13' y='112' font-size='11' fill='#6c63ff'>4</text><text x='62' y='112' font-size='11' fill='#f7971e'>5</text></svg>"
+      ]
     }
   ]
 }
